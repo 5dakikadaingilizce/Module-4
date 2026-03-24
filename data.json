@@ -14,5 +14,5 @@
   { "id": 13, "name": "Lesson #12",     "subTitle": "Herşey Ortaya Karışık-2",                   "file": "lessons/m4/lesson12.json",     "logo": "lessonlogo12.svg"  },
   { "id": 14, "name": "Lesson #13",     "subTitle": "GET TO KNOW EACHOTHER QUESTIONS",           "file": "lessons/m4/lesson13.json",     "logo": "lessonlogo13.svg"  },
 
-  { "id": 37, "name": "B1 Vocabulary",     "subTitle": "B1 Vocabulary",           "file": "lessons/m4/b1.json",     "logo": "lessonlogo13.svg"  }
+  { "id": 37, "name": "B1 Vocabulary",     "subTitle": "B1 Vocabulary",           "file": "lessons/m4/b1.json",     "logo": "b1logo.png"  }
 ]
