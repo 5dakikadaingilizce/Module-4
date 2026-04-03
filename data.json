@@ -13,6 +13,8 @@
   { "id": 12, "name": "Lesson #11",     "subTitle": "Herşey Ortaya Karışık-1",                   "file": "lessons/m4/lesson11.json",     "logo": "lessonlogo11.svg"  },
   { "id": 13, "name": "Lesson #12",     "subTitle": "Herşey Ortaya Karışık-2",                   "file": "lessons/m4/lesson12.json",     "logo": "lessonlogo12.svg"  },
   { "id": 14, "name": "Lesson #13",     "subTitle": "GET TO KNOW EACHOTHER QUESTIONS",           "file": "lessons/m4/lesson13.json",     "logo": "lessonlogo13.svg"  },
+  { "id": 17, "name": "Lesson #17",     "subTitle": "Öznesi FİİL olan Cümleler",           "file": "lessons/m4/lesson17.json",     "logo": "lessonlogo17.svg"  },
+
 
   { "id": 37, "name": "B1 Vocabulary",     "subTitle": "B1 Vocabulary",           "file": "lessons/m4/b1.json",     "logo": "b1logo.png"  }
 ]
