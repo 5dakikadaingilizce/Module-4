@@ -15,6 +15,7 @@
   { "id": 14, "name": "Lesson #13",     "subTitle": "GET TO KNOW EACHOTHER QUESTIONS",           "file": "lessons/m4/lesson13.json",     "logo": "lessonlogo13.svg"  },
   { "id": 17, "name": "Lesson #17",     "subTitle": "Öznesi FİİL Olan Cümleler",                 "file": "lessons/m4/lesson17.json",     "logo": "lessonlogo17.svg"  },
   { "id": 18, "name": "Lesson #18",     "subTitle": "İSİM & FİİL Çiftleri",                      "file": "lessons/m4/lesson18.json",     "logo": "lessonlogo18.svg"  },
+  { "id": 19, "name": "Lesson #19",     "subTitle": "SIFATLARI -> FİİLE / FİİLLERİ -> FİİLE",                      "file": "lessons/m4/lesson19.json",     "logo": "lessonlogo19.svg"  },
 
 
   { "id": 37, "name": "B1 Vocabulary",     "subTitle": "B1 Vocabulary",           "file": "lessons/m4/b1.json",     "logo": "b1logo.png"  }
