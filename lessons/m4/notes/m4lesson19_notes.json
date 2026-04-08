@@ -1,34 +1,29 @@
 {
-  "title": "Causative (Ettirgen) Tüm Yapılar",
+  "title": "Causative (Ettirgen) Yapılar Rehberi",
   "tabs": [
     {
-      "label": "Tüm Gruplar (Tek Sayfa)",
+      "label": "Tüm Gruplar (Renkli Özet)",
       "type": "examples",
       "items": [
         {
-          "color": "purple",
-          "tag": "1. GRUP: Sıfat → Fiil",
-          "text": "• GET + Sıfat → My son got big (Oğlum büyüdü).\n• MAKE + Kişi + Sıfat → You made me angry (Beni sinirlendirdin).\n• MAKE + Şey + Sıfat → Inflation makes everything expensive."
+          "color": "white",
+          "tag": "1. GRUP: Sıfatları Fiile Çevirme",
+          "text": "<font color=\"#FF0000\">GET</font> + <font color=\"#0000FF\">SIFAT</font> → My son <font color=\"#FF0000\">got</font> <font color=\"#0000FF\">big</font>.\n<font color=\"#FF0000\">MAKE</font> + <font color=\"#00FF00\">SOMEONE</font> + <font color=\"#00FFFF\">SIFAT</font> → You <font color=\"#FF0000\">made</font> <font color=\"#00FF00\">me</font> <font color=\"#00FFFF\">angry</font>.\n<font color=\"#FF0000\">MAKE</font> + <font color=\"#A020F0\">SOMETHING</font> + <font color=\"#00FFFF\">SIFAT</font> → Inflation <font color=\"#FF0000\">makes</font> <font color=\"#A020F0\">prices</font> <font color=\"#00FFFF\">more expensive</font>."
         },
         {
-          "color": "amber",
+          "color": "white",
           "tag": "2. GRUP: Yaptırmak (Kişi Önemli Değil)",
-          "text": "• GET + Şey + V3 → Ayşe got her hair done.\n• HAVE + Şey + V3 → I had my car fixed.\n(Kimin yaptığının önemi yok!)"
+          "text": "<font color=\"#FF0000\">Get</font> + <font color=\"#A020F0\">something</font> + <font color=\"#00FF00\">V3</font> → Ayşe <font color=\"#FF0000\">got</font> <font color=\"#A020F0\">her hair</font> <font color=\"#00FF00\">done</font>.\n<font color=\"#FF0000\">Have</font> + <font color=\"#A020F0\">something</font> + <font color=\"#00FF00\">V3</font> → I <font color=\"#FF0000\">had</font> <font color=\"#A020F0\">my car</font> <font color=\"#00FF00\">fixed</font>."
         },
         {
-          "color": "teal",
+          "color": "white",
           "tag": "3. GRUP: Yaptırmak (Kişi Belirterek)",
-          "text": "• GET + Kişi + (to) V1 → Ayşe got the hairdresser (to) do her hair.\n• HAVE + Kişi + V1 → I had the dentist pull my tooth.\n(HAVE = Resmi, GET = Günlük)"
+          "text": "<font color=\"#FF0000\">Get</font> + <font color=\"#00FF00\">someone</font> + <font color=\"#A020F0\">V1</font> → Ayşe <font color=\"#FF0000\">got</font> <font color=\"#00FF00\">hairdresser</font> <font color=\"#A020F0\">do</font> her hair.\n<font color=\"#FF0000\">Have</font> + <font color=\"#00FF00\">someone</font> + <font color=\"#A020F0\">V1</font> → I <font color=\"#FF0000\">had</font> <font color=\"#00FF00\">the dentist</font> <font color=\"#A020F0\">pull</font> my tooth."
         },
         {
-          "color": "pink",
+          "color": "white",
           "tag": "4. GRUP: Zorla Yaptırmak",
-          "text": "• MAKE + Kişi + V1 → I made my grandfather take his medicine.\n• You can't make me do it! (Bana zorla yaptıramazsın!)\n(Karşı taraf istemeden yapıyor!)"
-        },
-        {
-          "color": "green",
-          "tag": "🧠 Özet Karşılaştırma",
-          "text": "1. GET/MAKE + Sıfat (Değişim)\n2. GET/HAVE + Şey + V3 (Nesne odaklı)\n3. GET/HAVE + Kişi + V1 (Gönüllü/İkna)\n4. MAKE + Kişi + V1 (Zorlama)"
+          "text": "<font color=\"#FF0000\">Make</font> + <font color=\"#00FF00\">someone</font> + <font color=\"#A020F0\">V1</font> → I <font color=\"#FF0000\">made</font> <font color=\"#00FF00\">my grandfather</font> <font color=\"#A020F0\">take</font> his medicine."
         }
       ]
     }
