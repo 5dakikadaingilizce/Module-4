@@ -2,80 +2,91 @@
   "title": "Causative Yapılar",
   "tabs": [
     {
-      "label": "📌 GET/MAKE + Sıfat",
-      "type": "text",
-      "items": [
-        {
-          "color": "purple",
-          "heading": "🔮 Sıfatları Fiile Dönüştüren Sihir",
-          "content": "İngilizce'de bir sıfat, GET veya MAKE ile birleşince fiile dönüşür."
-        },
-        {
-          "color": "teal",
-          "heading": "GET + Sıfat → Kendiliğinden olmak",
-          "content": "Özne bir değişime uğrar (kendiliğinden).\n\nI got tired. → Yoruldum.\nEverything got expensive. → Her şey pahalandı.\nI feel that I get older every day. → Her gün daha da yaşlandığımı hissediyorum."
-        },
-        {
-          "color": "pink",
-          "heading": "MAKE + Someone/Something + Sıfat → Yaptırmak",
-          "content": "Özne, başka birini/bir şeyi değiştirir.\n\nYoutube will make my business bigger. → Youtube işimi büyütecek.\nThis heart operation made Ali older. → Bu ameliyat Ali'yi yaşlandırdı.\nInflation makes house prices more expensive. → Enflasyon fiyatları pahalılaştırıyor."
-        },
-        {
-          "color": "amber",
-          "heading": "💡 Formül",
-          "content": "GET + sıfat = -mek/-mak (kendiliğinden)\nMAKE + kişi/şey + sıfat = -tırmak/-dirmek (dış etken)"
-        }
-      ]
-    },
-    {
-      "label": "🔧 Yaptırmak",
+      "label": "1️⃣ Sıfat → Fiil",
       "type": "examples",
       "items": [
         {
           "color": "purple",
-          "tag": "📐 Formül 1 — Kimin yaptığı önemli değil",
-          "text": "GET / HAVE + something + V3\n\nAyşe saçını yaptı. → Ayşe had her hair done.\nArabamı tamir ettim. → I had my car fixed.\nÇimenleri kestim. → I got the grass cut."
+          "tag": "GET + Sıfat → Kendiliğinden olmak",
+          "text": "My son got big.\n→ Oğlum büyüdü.\n\nEverything got expensive.\n→ Her şey pahalandı.\n\nI got tired.\n→ Yoruldum."
         },
         {
           "color": "teal",
-          "tag": "👤 Formül 2 — Kimin yaptığı önemli",
-          "text": "GET / HAVE + someone + V1 + something\n\nAvukatıma seni aratacağım. → I'll get my lawyer call you.\nDoktoruma baktıracağım. → I'll have my doctor take a look.\nHemşireye tansiyonumu ölçtüreceğim. → I'll get the nurse measure my blood pressure."
+          "tag": "MAKE + Someone + Sıfat → Birini değiştirmek",
+          "text": "You made me angry.\n→ Beni sinirlendirdin.\n\nThis heart operation made Ali older.\n→ Bu ameliyat Ali'yi yaşlandırdı."
         },
         {
           "color": "pink",
-          "tag": "🗣 Örnek Cümleler",
-          "text": "Ayşe kuaföre tırnaklarını yaptırdı.\n→ Ayşe had her nails done at the hairdresser.\n\nEvimizi boyattık.\n→ We had our house painted.\n\nEmaillerimi sekreterime gönderttim.\n→ I had my secretary send my emails.\n\nBu logoyu iyi bir tasarımcıya tasarlattım.\n→ I got a good designer design this logo."
-        },
-        {
-          "color": "amber",
-          "tag": "⚠️ Fark Ne?",
-          "text": "HAVE + something + V3 → daha resmi, profesyonel\nGET + something + V3 → daha günlük, konuşma dili\n\nİkisi de aynı anlama gelir!"
+          "tag": "MAKE + Something + Sıfat → Bir şeyi değiştirmek",
+          "text": "Inflation makes the prices of everything more expensive.\n→ Enflasyon her şeyin fiyatını pahalılaştırıyor.\n\nYoutube will make my business bigger.\n→ Youtube işimi büyütecek."
         }
       ]
     },
     {
-      "label": "💢 Zorla Yaptırmak",
+      "label": "2️⃣ Kim yaptı? Fark etmez",
       "type": "examples",
       "items": [
         {
-          "color": "pink",
-          "tag": "📐 Formül — Karşı taraf istemeden yapıyor",
-          "text": "MAKE + someone + V1 + something\n\nBana zorla yaptırdılar. → They made me do it.\nBana zorla yaptıramazsın! → You can't make me do it.\nOğluma zorla ders çalıştırdım. → I made my son study."
+          "color": "amber",
+          "tag": "📐 Formül",
+          "text": "GET  + something + V3\nHAVE + something + V3\n\n(Kimin yaptığının önemi yok)"
         },
         {
           "color": "purple",
-          "tag": "🗣 Örnek Cümleler",
-          "text": "Kendi hatalarını bize ödettiriyorlar.\n→ They make us pay for their own mistakes.\n\nBana zehiri zorla içirttim.\n→ They made me drink the poison.\n\nAskerler bizi zorla dışarı çıkarttı.\n→ The soldiers made us go outside.\n\nDedeme ilacını zorla içirttim.\n→ I made my grandpa take his medicine."
+          "tag": "GET + something + V3",
+          "text": "Ayşe got her hair done.\n→ Ayşe saçını yaptırdı.\n\nI got my car fixed.\n→ Arabamı tamir ettirdim.\n\nI got my shoes polished.\n→ Ayakkabılarımı cilalatttım."
         },
         {
+          "color": "teal",
+          "tag": "HAVE + something + V3",
+          "text": "I had my car fixed.\n→ Arabamı tamir ettirdim.\n\nWe had our house painted.\n→ Evimizi boyattık.\n\nI had a new bank account opened.\n→ Yeni bir banka hesabı açtırdım."
+        }
+      ]
+    },
+    {
+      "label": "3️⃣ Kime yaptırdın? Önemli!",
+      "type": "examples",
+      "items": [
+        {
           "color": "amber",
-          "tag": "💡 GET vs MAKE Farkı",
-          "text": "GET → Gönüllü, razı olunan durum\nMAKE → Zorlama, karşı taraf istemiyor\n\nI got my son to study. → (ikna ettim)\nI made my son study. → (zorladım)"
+          "tag": "📐 Formül",
+          "text": "GET  + someone + (to) V1 + something\nHAVE + someone + V1 + something\n\n(Kim yaptığını belirtiyoruz, kişi gönüllü)"
+        },
+        {
+          "color": "purple",
+          "tag": "GET + someone + (to) V1",
+          "text": "Ayşe got the hairdresser (to) do her hair.\n→ Ayşe kuaföre saçını yaptırdı.\n\nI'll get my lawyer (to) call you.\n→ Avukatıma seni aratacağım.\n\nI got a good designer (to) design this logo.\n→ İyi bir tasarımcıya bu logoyu tasarlattım."
+        },
+        {
+          "color": "teal",
+          "tag": "HAVE + someone + V1",
+          "text": "I had the dentist pull my tooth.\n→ Dişçiye dişimi çektirdim.\n\nI'll have my doctor take a look.\n→ Doktoruma baktıracağım.\n\nI had my secretary send my emails.\n→ Emaillerimi sekreterime gönderttim."
+        },
+        {
+          "color": "pink",
+          "tag": "⚠️ GET vs HAVE Farkı",
+          "text": "HAVE → daha resmi / profesyonel\nGET  → daha günlük / konuşma dili\n\nAnlam olarak ikisi de aynı!"
+        }
+      ]
+    },
+    {
+      "label": "4️⃣ Zorla Yaptırmak",
+      "type": "examples",
+      "items": [
+        {
+          "color": "amber",
+          "tag": "📐 Formül",
+          "text": "MAKE + someone + V1 + something\n\n(Karşı taraf istemeden yapıyor!)"
+        },
+        {
+          "color": "pink",
+          "tag": "MAKE + someone + V1",
+          "text": "I made my grandfather take his medicine.\n→ Dedeme ilacını zorla içirttim.\n\nThey made me do it.\n→ Bana zorla yaptırdılar.\n\nI made my son study.\n→ Oğluma zorla ders çalıştırdım.\n\nYou can't make me do it!\n→ Bana zorla yaptıramazsın!"
         },
         {
           "color": "green",
-          "tag": "🧠 3 Yapıyı Karşılaştır",
-          "text": "HAVE/GET + şey + V3 → Bir şeyi yaptırdın (kim yaptı belli değil)\nHAVE/GET + kişi + V1 → Birine yaptırdın (kim yaptı belli, gönüllü)\nMAKE + kişi + V1 → Birine zorla yaptırdın (isteksiz)"
+          "tag": "🧠 4 Yapıyı Karşılaştır",
+          "text": "1️⃣ GET/MAKE + sıfat           → Kendiliğinden / dış etkenle değişmek\n2️⃣ GET/HAVE + şey + V3     → Bir şeyi yaptırdın (kim yaptı belli değil)\n3️⃣ GET/HAVE + kişi + V1    → Birine yaptırdın (gönüllü)\n4️⃣ MAKE + kişi + V1          → Birine zorla yaptırdın (isteksiz)"
         }
       ]
     }
