@@ -1,29 +1,30 @@
 {
-  "title": "Causative (Ettirgen) Yapılar Rehberi",
+  "title": "Causative Yapılar Notlarım",
+  "image": "BURAYA_RESIM_LINKINI_KOYACAKSIN.png",
   "tabs": [
     {
-      "label": "Tüm Gruplar (Renkli Özet)",
+      "label": "Causative Özet",
       "type": "examples",
       "items": [
         {
           "color": "white",
-          "tag": "1. GRUP: Sıfatları Fiile Çevirme",
-          "text": "<font color=\"#FF0000\">GET</font> + <font color=\"#0000FF\">SIFAT</font> → My son <font color=\"#FF0000\">got</font> <font color=\"#0000FF\">big</font>.\n<font color=\"#FF0000\">MAKE</font> + <font color=\"#00FF00\">SOMEONE</font> + <font color=\"#00FFFF\">SIFAT</font> → You <font color=\"#FF0000\">made</font> <font color=\"#00FF00\">me</font> <font color=\"#00FFFF\">angry</font>.\n<font color=\"#FF0000\">MAKE</font> + <font color=\"#A020F0\">SOMETHING</font> + <font color=\"#00FFFF\">SIFAT</font> → Inflation <font color=\"#FF0000\">makes</font> <font color=\"#A020F0\">prices</font> <font color=\"#00FFFF\">more expensive</font>."
+          "tag": "1. Sıfatları → Fiile Çevirme",
+          "text": "• <font color=\"#FF4500\">get</font> + <font color=\"#FFD700\">Sıfat</font> : My son <font color=\"#FF4500\">got</font> <font color=\"#FFD700\">big</font>: oğlum büyüdü.\n• <font color=\"#FF4500\">make</font> + <font color=\"#32CD32\">someone</font> + <font color=\"#FFD700\">Sıfat</font> : You <font color=\"#FF4500\">made</font> <font color=\"#32CD32\">me</font> <font color=\"#FFD700\">angry</font> : beni sinirlendirdin.\n• <font color=\"#FF4500\">make</font> + <font color=\"#BA55D3\">something</font> + <font color=\"#FFD700\">Sıfat</font> : Inflation <font color=\"#FF4500\">makes</font> the prices of everything <font color=\"#FFD700\">more expensive</font>"
         },
         {
           "color": "white",
-          "tag": "2. GRUP: Yaptırmak (Kişi Önemli Değil)",
-          "text": "<font color=\"#FF0000\">Get</font> + <font color=\"#A020F0\">something</font> + <font color=\"#00FF00\">V3</font> → Ayşe <font color=\"#FF0000\">got</font> <font color=\"#A020F0\">her hair</font> <font color=\"#00FF00\">done</font>.\n<font color=\"#FF0000\">Have</font> + <font color=\"#A020F0\">something</font> + <font color=\"#00FF00\">V3</font> → I <font color=\"#FF0000\">had</font> <font color=\"#A020F0\">my car</font> <font color=\"#00FF00\">fixed</font>."
+          "tag": "2. Fiillerden → Fiil yapma : … birine … bişey yaptırtmak…. (Kime yaptırdığının önemi yoksa)",
+          "text": "• <font color=\"#FF4500\">get</font> + <font color=\"#BA55D3\">something</font> + <font color=\"#00FFFF\">V3</font> : Ayşe <font color=\"#FF4500\">got</font> <font color=\"#BA55D3\">her hair</font> <font color=\"#00FFFF\">done</font>\n• <font color=\"#FF4500\">have</font> + <font color=\"#BA55D3\">something</font> + <font color=\"#00FFFF\">V3</font> : I <font color=\"#FF4500\">had</font> <font color=\"#BA55D3\">my car</font> <font color=\"#00FFFF\">fixed</font>"
         },
         {
           "color": "white",
-          "tag": "3. GRUP: Yaptırmak (Kişi Belirterek)",
-          "text": "<font color=\"#FF0000\">Get</font> + <font color=\"#00FF00\">someone</font> + <font color=\"#A020F0\">V1</font> → Ayşe <font color=\"#FF0000\">got</font> <font color=\"#00FF00\">hairdresser</font> <font color=\"#A020F0\">do</font> her hair.\n<font color=\"#FF0000\">Have</font> + <font color=\"#00FF00\">someone</font> + <font color=\"#A020F0\">V1</font> → I <font color=\"#FF0000\">had</font> <font color=\"#00FF00\">the dentist</font> <font color=\"#A020F0\">pull</font> my tooth."
+          "tag": "3. Fiillerden → Fiil yapma : … kişisine …  bişey yaptırtmak …(Kime yaptırdığını belirterek - AMA zorlama YOK!)",
+          "text": "• <font color=\"#FF4500\">get</font> + <font color=\"#32CD32\">someone</font> + (to) <font color=\"#00FFFF\">V1</font> + <font color=\"#BA55D3\">something</font> : Ayşe <font color=\"#FF4500\">got</font> <font color=\"#32CD32\">hairdresser</font> (to) <font color=\"#00FFFF\">do</font> her hair\n• <font color=\"#FF4500\">have</font> + <font color=\"#32CD32\">someone</font> + <font color=\"#00FFFF\">V1</font> + <font color=\"#BA55D3\">something</font> : I <font color=\"#FF4500\">had</font> <font color=\"#32CD32\">the dentist</font> <font color=\"#00FFFF\">pull</font> my tooth"
         },
         {
           "color": "white",
-          "tag": "4. GRUP: Zorla Yaptırmak",
-          "text": "<font color=\"#FF0000\">Make</font> + <font color=\"#00FF00\">someone</font> + <font color=\"#A020F0\">V1</font> → I <font color=\"#FF0000\">made</font> <font color=\"#00FF00\">my grandfather</font> <font color=\"#A020F0\">take</font> his medicine."
+          "tag": "4. Fiillerden → Fiil yapma: :…. kişisine…. birşeyi ZORLA yaptırtmak… (ZORLA yaptırtmak)",
+          "text": "• <font color=\"#FF4500\">make</font> + <font color=\"#32CD32\">someone</font> + <font color=\"#00FFFF\">V1</font> + <font color=\"#BA55D3\">something</font> : I <font color=\"#FF4500\">made</font> <font color=\"#32CD32\">my grandfather</font> <font color=\"#00FFFF\">take</font> his medicine"
         }
       ]
     }
