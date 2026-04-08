@@ -8,22 +8,22 @@
       "items": [
         {
           "color": "white",
-          "tag": "1. Sıfatları à Fiile Çevirme:",
+          "tag": "1. Sıfatları -> Fiile Çevirme:",
           "text": "• <font color=\"#FF0000\">get</font> + <font color=\"#FFFF00\">Sıfat</font> : My son <font color=\"#FF0000\">got</font> <font color=\"#FFFF00\">big</font>: Oğlum büyüdü.\n• <font color=\"#FF0000\">make</font> + <font color=\"#00FF00\">somone</font> + <font color=\"#FFFF00\">Sıfat</font> : You <font color=\"#FF0000\">made</font> <font color=\"#00FF00\">me</font> <font color=\"#FFFF00\">angry</font> : Beni sinirlendirdin.\n• <font color=\"#FF0000\">make</font> + <font color=\"#BA55D3\">something</font> + <font color=\"#FFFF00\">Sıfat</font> : Inflation <font color=\"#FF0000\">makes</font> the prices of <font color=\"#BA55D3\">everyting</font> <font color=\"#FFFF00\">more expensive</font> : Enflasyon herşeyin fiyatını daha da pahalılaştırdı."
         },
         {
           "color": "white",
-          "tag": "2. Fiillerden à Fiil yapma : … birine…. bişey yaptırtmak….(kime yaptırdığının önemi yoksa)",
+          "tag": "2. Fiillerden -> Fiil yapma : … birine…. bişey yaptırtmak….(kime yaptırdığının önemi yoksa)",
           "text": "• <font color=\"#FF0000\">get</font> + <font color=\"#BA55D3\">something</font> + <font color=\"#00FFFF\">V3</font> : Ayşe <font color=\"#FF0000\">got</font> <font color=\"#BA55D3\">her hair</font> <font color=\"#00FFFF\">done</font> : Ayşe saçlarını yaptırttı.\n• <font color=\"#FF0000\">have</font> + <font color=\"#BA55D3\">something</font> + <font color=\"#00FFFF\">V3</font> : I <font color=\"#FF0000\">had</font> <font color=\"#BA55D3\">my car</font> <font color=\"#00FFFF\">fixed</font> : Arabamı tamir ettirttim."
         },
         {
           "color": "white",
-          "tag": "3. Fiillerden à Fiil yapma: ….. kişisine…. bişey yaptırtmak…. (kime yaptırdığınını belirterek birine bişey yaptırmak) ( zorlama YOK!)",
+          "tag": "3. Fiillerden -> Fiil yapma: ….. kişisine…. bişey yaptırtmak…. (kime yaptırdığınını belirterek birine bişey yaptırmak) ( zorlama YOK!)",
           "text": "• <font color=\"#FF0000\">get</font> + <font color=\"#00FF00\">someone</font> + (to) <font color=\"#00FFFF\">V1</font> + <font color=\"#BA55D3\">something</font> : Ayşe <font color=\"#FF0000\">got</font> <font color=\"#00FF00\">hairdresser</font> (to) <font color=\"#00FFFF\">do</font> her <font color=\"#BA55D3\">dair</font> : Ayşe saçlarını kuaföre yaptırttı.\n• <font color=\"#FF0000\">have</font> + <font color=\"#00FF00\">someone</font> + <font color=\"#00FFFF\">V1</font> + <font color=\"#BA55D3\">something</font> : I <font color=\"#FF0000\">had</font> <font color=\"#00FF00\">the dentist</font> <font color=\"#00FFFF\">pull</font> <font color=\"#BA55D3\">my tooth</font> : Dişimi dişçiye çektirttim.\n\n<b>Not:</b> Sınava gireceksen ‘’get’’ kullanılırken gramer olarak (+ to V1) kullanılır. Ama günlük konuşmada V1 kullan geç!"
         },
         {
           "color": "white",
-          "tag": "4. Fiillerden à Fiil yapma :…. kişisine…. birşeyi ZORLA yaptırtmak…",
+          "tag": "4. Fiillerden -> Fiil yapma :…. kişisine…. birşeyi ZORLA yaptırtmak…",
           "text": "• <font color=\"#FF0000\">make</font> + <font color=\"#00FF00\">someone</font> + <font color=\"#00FFFF\">V1</font> + <font color=\"#BA55D3\">something</font> : I <font color=\"#FF0000\">made</font> <font color=\"#00FF00\">my grandfather</font> <font color=\"#00FFFF\">take</font> <font color=\"#BA55D3\">his medicine</font> : Dedeme zorla ilacını içirttim."
         }
       ]
