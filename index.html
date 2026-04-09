@@ -710,7 +710,24 @@ function toggleShuffle(){
   }
   currentIndex=0;show();
 }
-
+function fitTextToCard() {
+  const faces = [
+    document.getElementById('trDisplay'),
+    document.getElementById('engDisplay')
+  ];
+  faces.forEach(el => {
+    if (!el) return;
+    const len = el.innerText.length;
+    let size;
+    if (len < 30)       size = '26px';
+    else if (len < 60)  size = '20px';
+    else if (len < 100) size = '16px';
+    else if (len < 150) size = '13px';
+    else                size = '11px';
+    el.style.fontSize = size;
+  });
+}
+    
 function show(){
   if(!cards.length)return;
   if(currentIndex>=cards.length)currentIndex=0;
@@ -738,8 +755,9 @@ function show(){
   document.getElementById('correctCount').innerText=lc;
   document.getElementById('wrongCount').innerText=uc;
   document.getElementById('orderCount').innerText=(currentIndex+1);
-  if(autoTRVoice)setTimeout(speakTR,300);
+if(autoTRVoice)setTimeout(speakTR,300);
   document.getElementById('guideLayer').style.opacity="1";
+  fitTextToCard();
 }
 
 function handleFlip(event){
