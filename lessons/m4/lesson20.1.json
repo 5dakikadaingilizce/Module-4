@@ -312,12 +312,12 @@
   {
     "id": 63,
     "tr": "Ayşe burnunu yaptırttı.",
-    "en": "Ayşe had her nose done. / / Ayşe got her nose done"
+    "en": "Ayşe had her nose done. /  Ayşe got her nose done."
   },
   {
     "id": 64,
     "tr": "Ayşe burnunu yaptırtmadı.",
-    "en": "Ayşe didn't have her nose done / / Ayşe didn't get her nose done"
+    "en": "Ayşe didn't have her nose done. / Ayşe didn't get her nose done"
   },
   {
     "id": 65,
@@ -377,12 +377,12 @@
   {
     "id": 76,
     "tr": "Parti için ayakkabılarımı cilalattım.",
-    "en": "I had my shoes polished for the party / / I got my shoes polished for the party"
+    "en": "I had my shoes polished for the party /  I got my shoes polished for the party"
   },
   {
     "id": 77,
     "tr": "Parti için ayakkabılarımı cilalatmadım.",
-    "en": "I didn't have my shoes polished for the party / / I didn't get my shoes polished for the party"
+    "en": "I didn't have my shoes polished for the party / I didn't get my shoes polished for the party."
   },
   {
     "id": 78,
@@ -402,17 +402,17 @@
   {
     "id": 81,
     "tr": "Parti için ayakkabılarını cilalattırman gerektiğini bilmen gerek.",
-    "en": "You need to know that you need to have your shoes polished for the / party. / You need to know that you need to get your shoes polished for the / party."
+    "en": "You need to know that you need to have your shoes polished for the party. / You need to know that you need to get your shoes polished for the party."
   },
   {
     "id": 82,
     "tr": "Müdür maaşları ödetti.",
-    "en": "The manager had the salaries paid. / / The manager got the salaries paid."
+    "en": "The manager had the salaries paid. / The manager got the salaries paid."
   },
   {
     "id": 83,
     "tr": "Müdür maaşları ödettirmedi.",
-    "en": "The manager didn't have the salaries paid. / / The manager didn't get the salaries paid."
+    "en": "The manager didn't have the salaries paid. / The manager didn't get the salaries paid."
   },
   {
     "id": 84,
@@ -477,7 +477,7 @@
   {
     "id": 96,
     "tr": "Hangi bankadan yeni bir hesap açtırtmalıyım?",
-    "en": "Which bank must I have a new account opened at / / Which bank must I get a new account opened at"
+    "en": "Which bank must I have a new account opened at? / Which bank must I get a new account opened at?"
   },
   {
     "id": 97,
@@ -507,12 +507,12 @@
   {
     "id": 102,
     "tr": "Dişimi çektirdim.",
-    "en": "I had my tooth pulled / / I got my tooth pulled"
+    "en": "I had my tooth pulled / I got my tooth pulled"
   },
   {
     "id": 103,
     "tr": "Dişimi çektirmedim.",
-    "en": "I didn't have my tooth pulled / / I didn't get my tooth pulled"
+    "en": "I didn't have my tooth pulled / I didn't get my tooth pulled"
   },
   {
     "id": 104,
@@ -557,12 +557,12 @@
   {
     "id": 112,
     "tr": "Geçen yıl evimizi boyattık.",
-    "en": "We had our house painted last year / / We got our house painted last year"
+    "en": "We had our house painted last year / We got our house painted last year"
   },
   {
     "id": 113,
     "tr": "Geçen yıl evimizi boyatmadık.",
-    "en": "We didn't have our house painted last year / / We didn't get our house painted last year"
+    "en": "We didn't have our house painted last year  / We didn't get our house painted last year"
   },
   {
     "id": 114,
@@ -586,8 +586,8 @@
   },
   {
     "id": 118,
-    "tr": "Bu şehirde yaşayan insanlar için evlerini boyattırmalarının ne",
-    "en": "kadar önemli olduğunu bilmeni isterim. / I want you to know how important it is for the people living in this / city to have their houses painted. / I want you to know how important getting their houses painted is for / the people living in this city"
+    "tr": "Bu şehirde yaşayan insanlar için evlerini boyattırmalarının ne kadar önemli olduğunu bilmeni isterim.",
+    "en": " I want you to know how important it is for the people living in this city to have their houses painted. / I want you to know how important getting their houses painted is for the people living in this city"
   },
   {
     "id": 119,
@@ -616,8 +616,8 @@
   },
   {
     "id": 124,
-    "tr": "Evinizi boyattırmanın ne kadar önemli olduğunu Aliye söylesen iyi",
-    "en": "olur. / You should tell Ali how important it is to have your house painted. / You should tell Ali how important getting your house painted is."
+    "tr": "Evinizi boyattırmanın ne kadar önemli olduğunu Aliye söylesen iyi olur.",
+    "en": "You should tell Ali how important it is to have your house painted. / You should tell Ali how important getting your house painted is."
   },
   {
     "id": 125,
@@ -632,12 +632,12 @@
   {
     "id": 127,
     "tr": "Kapıyı kapattırdım.",
-    "en": "I had the door closed / / I got the door closed"
+    "en": "I had the door closed / I got the door closed"
   },
   {
     "id": 128,
     "tr": "Kapıyı kapattırtmadım.",
-    "en": "I didn't have the door closed / / I didn't get the door closed"
+    "en": "I didn't have the door closed / I didn't get the door closed"
   },
   {
     "id": 129,
@@ -672,7 +672,7 @@
   {
     "id": 135,
     "tr": "Evimi temizlettirdim.",
-    "en": "I had my house cleaned / / I got my house cleaned"
+    "en": "I had my house cleaned /  I got my house cleaned"
   },
   {
     "id": 136,
@@ -732,12 +732,12 @@
   {
     "id": 147,
     "tr": "Kitaplarımı getirttim.",
-    "en": "I had my books brought / / I got my books brought"
+    "en": "I had my books brought / I got my books brought"
   },
   {
     "id": 148,
     "tr": "Kitaplarımı getirtmedim.",
-    "en": "I didn't have my books brought / / I didn't get my books brought"
+    "en": "I didn't have my books brought / I didn't get my books brought"
   },
   {
     "id": 149,
@@ -806,8 +806,8 @@
   },
   {
     "id": 162,
-    "tr": "Ya benim e-postalarımı ya da müdürün e-postalarını göndertmen",
-    "en": "gerek. / You need to have either my emails or the manager's emails sent. / You need to get either my emails or the manager's emails sent."
+    "tr": "Ya benim e-postalarımı ya da müdürün e-postalarını göndertmen gerek",
+    "en": "You need to have either my emails or the manager's emails sent. / You need to get either my emails or the manager's emails sent."
   },
   {
     "id": 163,
@@ -937,12 +937,12 @@
   {
     "id": 188,
     "tr": "Bulaşıkları yıkattım.",
-    "en": "I had the dishes done / / I got the dishes done"
+    "en": "I had the dishes done / I got the dishes done"
   },
   {
     "id": 189,
     "tr": "Bulaşıkları yıkatmadım.",
-    "en": "I didn't have the dishes done / / I didn't get the dishes done"
+    "en": "I didn't have the dishes done / I didn't get the dishes done"
   },
   {
     "id": 190,
@@ -957,12 +957,12 @@
   {
     "id": 192,
     "tr": "Kahvaltıyı hazırlattım.",
-    "en": "I had the breakfast prepared / / I got the breakfast prepared"
+    "en": "I had the breakfast prepared / I got the breakfast prepared"
   },
   {
     "id": 193,
     "tr": "Kahvaltıyı hazırlatmadım.",
-    "en": "I didn't have the breakfast prepared / / I didn't get the breakfast prepared"
+    "en": "I didn't have the breakfast prepared / I didn't get the breakfast prepared"
   },
   {
     "id": 194,
@@ -997,87 +997,87 @@
   {
     "id": 200,
     "tr": "Bu logoyu tasarlattım.",
-    "en": "I had this logo designed / / I got this logo designed"
+    "en": "I had this logo designed /  I got this logo designed"
   },
   {
     "id": 201,
     "tr": "Bu logoyu tasarlatmadım.",
-    "en": "I didn't have this logo designed / / I didn't get this logo designed."
+    "en": "I didn't have this logo designed / I didn't get this logo designed."
   },
   {
     "id": 202,
     "tr": "Bu logoyu sen mi tasarlattın?",
-    "en": "Did you have this logo designed? / / Did you get this logo designed?"
+    "en": "Did you have this logo designed? / Did you get this logo designed?"
   },
   {
     "id": 203,
     "tr": "Bu logoyu kim tasarlattı?",
-    "en": "Who had this logo designed? / / Who got this logo designed?"
+    "en": "Who had this logo designed? /  Who got this logo designed?"
   },
   {
     "id": 204,
     "tr": "Bu logoyu niçin tasarlattın?",
-    "en": "Why did you have this logo designed? / / Why did you get this logo designed?"
+    "en": "Why did you have this logo designed? / Why did you get this logo designed?"
   },
   {
     "id": 205,
     "tr": "Bu logoyu kim için tasarlattın?",
-    "en": "Who did you have this logo designed for? / / Who did you get this logo designed for?"
+    "en": "Who did you have this logo designed for? / Who did you get this logo designed for?"
   },
   {
     "id": 206,
     "tr": "Bu logoyu tasarlatmak için ne kadar ödedin?",
-    "en": "How much did you pay to have this logo designed? / / How much did you pay to get this logo designed?"
+    "en": "How much did you pay to have this logo designed? / How much did you pay to get this logo designed?"
   },
   {
     "id": 207,
     "tr": "Bu logoyu tasarlatmak ne kadara mal olur?",
-    "en": "How much does it cost to have this logo designed / / How much does it cost to get this logo designed"
+    "en": "How much does it cost to have this logo designed / How much does it cost to get this logo designed"
   },
   {
     "id": 208,
     "tr": "Bu logoyu tasarlatmak ne kadara mal oldu?",
-    "en": "How much did it cost to have this logo designed? / / How much did it cost to get this logo designed?"
+    "en": "How much did it cost to have this logo designed? / How much did it cost to get this logo designed?"
   },
   {
     "id": 209,
     "tr": "Bu logoyu tasarlatmak ne kadara mal olacak?",
-    "en": "How much will it cost to have this logo designed? / / How much will it cost to get this logo designed?"
+    "en": "How much will it cost to have this logo designed? / How much will it cost to get this logo designed?"
   },
   {
     "id": 210,
     "tr": "Sence bu logoyu tasarlatmak ne kadara mal olacak?",
-    "en": "How much do you think it will cost to have this logo designed? / / How much do you think it will cost to get this logo designed?"
+    "en": "How much do you think it will cost to have this logo designed? / How much do you think it will cost to get this logo designed?"
   },
   {
     "id": 211,
     "tr": "Bu arabayı ürettirdiler.",
-    "en": "They had this car produced. / / They got this car produced."
+    "en": "They had this car produced. / They got this car produced."
   },
   {
     "id": 212,
     "tr": "Bu arabayı ürettirtmediler.",
-    "en": "They didn't have this car produced. / / They didn't get this car produced."
+    "en": "They didn't have this car produced. /They didn't get this car produced."
   },
   {
     "id": 213,
     "tr": "Bu arabayı ürettirttiler mi?",
-    "en": "Did they have this car produced? / / Did they get this car produced?"
+    "en": "Did they have this car produced? / Did they get this car produced?"
   },
   {
     "id": 214,
     "tr": "Bu arabayı ürettirtecekler mi?",
-    "en": "Will they have this car produced? / / Will they get this car produced?"
+    "en": "Will they have this car produced? / Will they get this car produced?"
   },
   {
     "id": 215,
     "tr": "Bu arabayı ne zaman ürettirtecekler?",
-    "en": "When will they have this car produced? / / When will they get this car produced?"
+    "en": "When will they have this car produced? / When will they get this car produced?"
   },
   {
     "id": 216,
     "tr": "Bu arabayı ürettirtmeleri kaç paraya mal olacak?",
-    "en": "How much will it cost them to have this car produced? / / How much will it cost them to get this car produced?"
+    "en": "How much will it cost them to have this car produced? / How much will it cost them to get this car produced?"
   },
   {
     "id": 217,
@@ -1087,21 +1087,21 @@
   {
     "id": 218,
     "tr": "Bu arabayı ürettirtmeleri kaç paraya mal oldu?",
-    "en": "How much did it cost them to have this car produced? / / How much did it cost them to get this car produced?"
+    "en": "How much did it cost them to have this car produced? / How much did it cost them to get this car produced?"
   },
   {
     "id": 219,
     "tr": "Bu arabayı ürettirtmeleri ne kadar zaman alacak?",
-    "en": "How long will it take them to have this car produced? / / How long will it take them to get this car produced?"
+    "en": "How long will it take them to have this car produced? / How long will it take them to get this car produced?"
   },
   {
     "id": 220,
     "tr": "Bu arabayı ürettirtmeleri ne kadar zaman alır?",
-    "en": "How long does it take them to have this car produced? / / How long does it take them to get this car produced?"
+    "en": "How long does it take them to have this car produced? / How long does it take them to get this car produced?"
   },
   {
     "id": 221,
     "tr": "Bu arabayı ürettirtmeleri ne kadar zaman aldı?",
-    "en": "How long did it take them to have this car produced? / / How long did it take them to get this car produced?"
+    "en": "How long did it take them to have this car produced? / How long did it take them to get this car produced?"
   }
 ]
