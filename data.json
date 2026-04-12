@@ -18,6 +18,8 @@
   { "id": 19, "name": "Lesson #19",     "subTitle": "SIFATTAN -> FİİL TÜRETME",                                    "file": "lessons/m4/lesson19.json",     "logo": "lessonlogo19.svg", "notes": "lessons/m4/notes/m4lesson19_notes.json"  },
   { "id": 20, "name": "Lesson #20",     "subTitle": "FİİLDEN -> FİİL TÜRETME",                                     "file": "lessons/m4/lesson20.json",     "logo": "lessonlogo20.svg", "notes": "lessons/m4/notes/m4lesson20_notes.json"  },
   { "id": 20.1, "name": "Lesson #20.1",     "subTitle": "FİİLDEN -> FİİL TÜRETME part 1",                          "file": "lessons/m4/lesson20.1.json",     "logo": "lessonlogo20.svg", "notes": "lessons/m4/notes/m4lesson20.1_notes.json"  },
+  { "id": 20.2, "name": "Lesson #20.2",     "subTitle": "FİİLDEN -> FİİL TÜRETME part 2",                          "file": "lessons/m4/lesson20.2.json",     "logo": "lessonlogo20.svg", "notes": "lessons/m4/notes/m4lesson20.2_notes.json"  },
+  { "id": 20.3, "name": "Lesson #20.3",     "subTitle": "FİİLDEN -> FİİL TÜRETME part 3",                          "file": "lessons/m4/lesson20.3.json",     "logo": "lessonlogo20.svg", "notes": "lessons/m4/notes/m4lesson20.3_notes.json"  },
 
 
   { "id": 37, "name": "B1 Vocabulary",     "subTitle": "B1 Vocabulary",                                             "file": "lessons/m4/b1.json",     "logo": "b1logo.png"  }
