@@ -112,7 +112,7 @@
     { "id": 111, "tr": "E-postalar Ali tarafından nasıl gönderiliyordu?", "en": "How were the emails being sent by Ali?" },
     { "id": 112, "tr": "Dokümanlar müdür tarafından imzalanıyordu.", "en": "The documents were being signed by the manager." },
     { "id": 113, "tr": "Dokümanlar müdür tarafından imzalanmıyordu.", "en": "The documents weren't being signed by the manager." },
-    { "id": 114, "tr": "Dokümanlar müdür tarafından imzalanıyor muydu?", "en": "Were the documents being signed by the manager?" },
+    { "id": 114, "tr": "Dokümanlar müdür tarafından mı imzalanıyordu?", "en": "Were the documents being signed by the manager?" },
     { "id": 115, "tr": "Dokümanlar müdür tarafından niçin imzalanıyordu?", "en": "Why were the documents being signed by the manager?" },
     { "id": 116, "tr": "Köprü geçen hafta tamir ediliyordu.", "en": "The bridge was being fixed last week." },
     { "id": 117, "tr": "Köprü geçen hafta tamir edilmiyordu.", "en": "The bridge wasn't being fixed last week." },
