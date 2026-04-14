@@ -4,7 +4,7 @@
     { "id": 3, "tr": "Ali gönderiliyor.", "en": "Ali is being sent." },
     { "id": 4, "tr": "Ali gönderiliyordu.", "en": "Ali was being sent." },
     { "id": 5, "tr": "Ali gönderilecek.", "en": "Ali will be sent." },
-    { "id": 6, "tr": "Ali gönderildi.", "en": "Ali has been sent." },
+    { "id": 6, "tr": "Ali gönderildi.(süreç)", "en": "Ali has been sent." },
     { "id": 7, "tr": "Ali gönderilmişti.", "en": "Ali had been sent." },
     { "id": 8, "tr": "Ali gönderilebilir.", "en": "Ali can be sent." },
     { "id": 9, "tr": "Ali gönderilebilirdi.", "en": "Ali could be sent." },
