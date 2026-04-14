@@ -1,0 +1,46 @@
+{
+  "course_title": "Pasif Cümlelere Giriş",
+  "definitions": {
+    "active": "Cümlenin öznesi işi bizzat yapan kişidir[cite: 3, 5, 6].",
+    "passive": "Cümlenin öznesi işi yapmıyor, iş başkası tarafından yapılıyorsa pasif cümledir[cite: 13, 15, 17]."
+  },
+  "general_formula": "Özne + BE (zamana/modala uygun) + Fiil (V3) [cite: 30]",
+  "lessons": [
+    {
+      "tense": "Simple Present Tense (Geniş Zaman)",
+      "formula": "ÖZNE + AM/IS/ARE + V3 [cite: 54]",
+      "active_example": { "tr": "Ali e-postaları gönderir.", "en": "Ali sends the emails." },
+      "passive_example": { "tr": "E-postalar Ali tarafından gönderilir [cite: 69].", "en": "The emails are sent by Ali[cite: 70]." }
+    },
+    {
+      "tense": "Simple Past Tense (Geçmiş Zaman)",
+      "formula": "ÖZNE + WAS/WERE + V3 [cite: 78]",
+      "active_example": { "tr": "Ali e-postaları gönderdi [cite: 80].", "en": "Ali sent the emails[cite: 80]." },
+      "passive_example": { "tr": "E-postalar Ali tarafından gönderildi [cite: 80].", "en": "The emails were sent by Ali[cite: 80]." }
+    },
+    {
+      "tense": "Future Tense (Gelecek Zaman)",
+      "formula": "ÖZNE + WILL BE + V3 [cite: 102]",
+      "active_example": { "tr": "Ali e-postaları gönderecek [cite: 104].", "en": "Ali will send the emails[cite: 104]." },
+      "passive_example": { "tr": "E-postalar Ali tarafından gönderilecek [cite: 104].", "en": "The emails will be sent by Ali[cite: 104]." }
+    },
+    {
+      "tense": "Present Continuous Tense (Şimdiki Zaman)",
+      "formula": "ÖZNE + IS/ARE + BEING + V3 [cite: 126]",
+      "active_example": { "tr": "Ali e-postaları gönderiyor [cite: 128].", "en": "Ali is sending the emails[cite: 128]." },
+      "passive_example": { "tr": "E-postalar Ali tarafından gönderiliyor [cite: 128].", "en": "The emails are being sent by Ali[cite: 128]." }
+    },
+    {
+      "tense": "Past Continuous Tense (Sürekli Geçmiş Zaman)",
+      "formula": "ÖZNE + WAS/WERE + BEING + V3 [cite: 143]",
+      "active_example": { "tr": "Ali e-postaları gönderiyordu [cite: 145].", "en": "Ali was sending the emails[cite: 145]." },
+      "passive_example": { "tr": "E-postalar Ali tarafından gönderiliyordu [cite: 145].", "en": "The emails were being sent by Ali[cite: 145]." }
+    },
+    {
+      "tense": "Modals (Can/Must/Should vb.)",
+      "formula": "ÖZNE + MODAL + BE + V3 [cite: 30, 32]",
+      "active_example": { "tr": "Ali e-postaları gönderebilir.", "en": "Ali can send the emails." },
+      "passive_example": { "tr": "Ali gönderilebilir [cite: 41].", "en": "Ali can be sent[cite: 41]." }
+    }
+  ]
+}
