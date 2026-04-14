@@ -1,46 +1,41 @@
 {
-  "course_title": "Pasif Cümlelere Giriş",
-  "definitions": {
-    "active": "Cümlenin öznesi işi bizzat yapan kişidir[cite: 3, 5, 6].",
-    "passive": "Cümlenin öznesi işi yapmıyor, iş başkası tarafından yapılıyorsa pasif cümledir[cite: 13, 15, 17]."
-  },
-  "general_formula": "Özne + BE (zamana/modala uygun) + Fiil (V3) [cite: 30]",
-  "lessons": [
+  "title": "Notes",
+  "tabs": [
     {
-      "tense": "Simple Present Tense (Geniş Zaman)",
-      "formula": "ÖZNE + AM/IS/ARE + V3 [cite: 54]",
-      "active_example": { "tr": "Ali e-postaları gönderir.", "en": "Ali sends the emails." },
-      "passive_example": { "tr": "E-postalar Ali tarafından gönderilir [cite: 69].", "en": "The emails are sent by Ali[cite: 70]." }
-    },
-    {
-      "tense": "Simple Past Tense (Geçmiş Zaman)",
-      "formula": "ÖZNE + WAS/WERE + V3 [cite: 78]",
-      "active_example": { "tr": "Ali e-postaları gönderdi [cite: 80].", "en": "Ali sent the emails[cite: 80]." },
-      "passive_example": { "tr": "E-postalar Ali tarafından gönderildi [cite: 80].", "en": "The emails were sent by Ali[cite: 80]." }
-    },
-    {
-      "tense": "Future Tense (Gelecek Zaman)",
-      "formula": "ÖZNE + WILL BE + V3 [cite: 102]",
-      "active_example": { "tr": "Ali e-postaları gönderecek [cite: 104].", "en": "Ali will send the emails[cite: 104]." },
-      "passive_example": { "tr": "E-postalar Ali tarafından gönderilecek [cite: 104].", "en": "The emails will be sent by Ali[cite: 104]." }
-    },
-    {
-      "tense": "Present Continuous Tense (Şimdiki Zaman)",
-      "formula": "ÖZNE + IS/ARE + BEING + V3 [cite: 126]",
-      "active_example": { "tr": "Ali e-postaları gönderiyor [cite: 128].", "en": "Ali is sending the emails[cite: 128]." },
-      "passive_example": { "tr": "E-postalar Ali tarafından gönderiliyor [cite: 128].", "en": "The emails are being sent by Ali[cite: 128]." }
-    },
-    {
-      "tense": "Past Continuous Tense (Sürekli Geçmiş Zaman)",
-      "formula": "ÖZNE + WAS/WERE + BEING + V3 [cite: 143]",
-      "active_example": { "tr": "Ali e-postaları gönderiyordu [cite: 145].", "en": "Ali was sending the emails[cite: 145]." },
-      "passive_example": { "tr": "E-postalar Ali tarafından gönderiliyordu [cite: 145].", "en": "The emails were being sent by Ali[cite: 145]." }
-    },
-    {
-      "tense": "Modals (Can/Must/Should vb.)",
-      "formula": "ÖZNE + MODAL + BE + V3 [cite: 30, 32]",
-      "active_example": { "tr": "Ali e-postaları gönderebilir.", "en": "Ali can send the emails." },
-      "passive_example": { "tr": "Ali gönderilebilir [cite: 41].", "en": "Ali can be sent[cite: 41]." }
+      "label": "Pasif Cümleler",
+      "type": "examples",
+      "items": [
+        {
+          "color": "pink",
+          "tag": "1. Simple Present Tense (Geniş Zaman Pasif)",
+          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px;'><font color=\"#FFFF00\">am/is/are</font> + <font color=\"#00FFFF\">V3</font></td><td style='padding:8px;'>The emails <font color=\"#FFFF00\">are</font> <font color=\"#00FFFF\">sent</font> by Ali. [cite: 70, 80]</td></tr></tbody></table>"
+        },
+        {
+          "color": "amber",
+          "tag": "2. Simple Past Tense (Geçmiş Zaman Pasif)",
+          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px;'><font color=\"#FFFF00\">was/were</font> + <font color=\"#00FFFF\">V3</font></td><td style='padding:8px;'>The emails <font color=\"#FFFF00\">were</font> <font color=\"#00FFFF\">sent</font> by Ali. [cite: 78, 80]</td></tr></tbody></table>"
+        },
+        {
+          "color": "purple",
+          "tag": "3. Future Tense (Gelecek Zaman Pasif)",
+          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px;'><font color=\"#FFFF00\">will be</font> + <font color=\"#00FFFF\">V3</font></td><td style='padding:8px;'>The emails <font color=\"#FFFF00\">will be</font> <font color=\"#00FFFF\">sent</font> by Ali. [cite: 102, 104]</td></tr></tbody></table>"
+        },
+        {
+          "color": "blue",
+          "tag": "4. Present Continuous (Şimdiki Zaman Pasif)",
+          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px;'><font color=\"#FFFF00\">is/are being</font> + <font color=\"#00FFFF\">V3</font></td><td style='padding:8px;'>The emails <font color=\"#FFFF00\">are being</font> <font color=\"#00FFFF\">sent</font> by Ali. [cite: 126, 128]</td></tr></tbody></table>"
+        },
+        {
+          "color": "green",
+          "tag": "5. Past Continuous (Sürekli Geçmiş Zaman Pasif)",
+          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px;'><font color=\"#FFFF00\">was/were being</font> + <font color=\"#00FFFF\">V3</font></td><td style='padding:8px;'>The emails <font color=\"#FFFF00\">were being</font> <font color=\"#00FFFF\">sent</font> by Ali. [cite: 143, 145]</td></tr></tbody></table>"
+        },
+        {
+          "color": "orange",
+          "tag": "6. Modals (Kipliklerle Pasif Yapı)",
+          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px;'><font color=\"#FFFF00\">can/must/should be</font> + <font color=\"#00FFFF\">V3</font></td><td style='padding:8px;'>Ali <font color=\"#FFFF00\">can be</font> <font color=\"#00FFFF\">sent</font>. [cite: 30, 41, 47]</td></tr></tbody></table>"
+        }
+      ]
     }
   ]
 }
