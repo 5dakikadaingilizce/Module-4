@@ -6,9 +6,10 @@
       "type": "table",
       "headers": ["Tür", "Formül", "Örnek"],
       "rows": [
-        ["AKTİF", "Özne + fiili yapar", "Ali sent the emails."],
-        ["PASİF", "Özne + BE + V3", "The emails were sent by Ali."],
-        ["BY", "Kimin yaptığını belirtir (opsiyonel)", "…sent BY Ali. / …spoken in many countries."]
+        ["AKTİF CÜMLE", "Özne işi yapandır", "Ali sent the emails."],
+        ["PASİF CÜMLE", "İş başkası tarafından yapılıyorsa", "The emails were sent."],
+        ["BY kullanımı", "Kimin yaptığını belirtmek için by + kişi", "The emails were sent by Ali."],
+        ["GENEL FORMÜL", "Özne + BE (zamana uygun) + V3", "The emails are sent / were sent / will be sent."]
       ]
     },
     {
@@ -16,25 +17,12 @@
       "type": "table",
       "headers": ["Zaman", "Pasif Formül", "Örnek"],
       "rows": [
-        ["Simple Present", "AM / IS / ARE + V3", "English is spoken here."],
-        ["Simple Past", "WAS / WERE + V3", "The emails were sent."],
-        ["Future", "WILL BE + V3", "The book will be translated."],
-        ["Present Continuous", "IS/ARE + BEING + V3", "The windows are being cleaned."],
-        ["Past Continuous", "WAS/WERE + BEING + V3", "The emails were being sent."],
-        ["Modal", "MODAL + BE + V3", "It must be done. / It should be sent."]
-      ]
-    },
-    {
-      "label": "Örnek Cümleler",
-      "type": "table",
-      "headers": ["Türkçe", "İngilizce"],
-      "rows": [
-        ["İngilizce birçok ülkede konuşulur.", "English is spoken in many countries."],
-        ["E-postalar Ali tarafından gönderildi.", "The emails were sent by Ali."],
-        ["Bu kitap Türkçeye çevrilecek.", "This book will be translated into Turkish."],
-        ["Camlar şu an temizleniyor.", "The windows are being cleaned."],
-        ["Belgeler müdür tarafından imzalandı.", "The documents were signed by the manager."],
-        ["Her şey saat 8'e kadar bitirilecek.", "Everything will be finished by 8 o'clock."]
+        ["Simple Present", "AM / IS / ARE + V3", "English is spoken here. – Burada İngilizce konuşulur."],
+        ["Simple Past", "WAS / WERE + V3", "The emails were sent. – E-postalar gönderildi."],
+        ["Future", "WILL BE + V3", "The book will be translated. – Kitap çevrilecek."],
+        ["Present Continuous", "IS/ARE + BEING + V3", "The windows are being cleaned. – Pencereler temizleniyor."],
+        ["Past Continuous", "WAS/WERE + BEING + V3", "The emails were being sent. – E-postalar gönderiliyordu."],
+        ["Modal", "MODAL + BE + V3", "It must be done. – Bu yapılmalı."]
       ]
     }
   ]
