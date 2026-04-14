@@ -1,40 +1,40 @@
 {
-  "title": "Notes",
+  "title": "DERS 21 – Pasif Cümleler (Passive Voice)",
   "tabs": [
     {
-      "label": "Pasif Cümleler",
-      "type": "examples",
-      "items": [
-        {
-          "color": "pink",
-          "tag": "1. Simple Present Tense (Geniş Zaman Pasif Yapı)",
-          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px;'><font color=\"#FFFF00\">am/is/are</font> + <font color=\"#00FFFF\">V3</font></td><td style='padding:8px;'>The emails <font color=\"#FFFF00\">are</font> <font color=\"#00FFFF\">sent</font> by Ali. [cite: 70, 80]</td></tr></tbody></table>"
-        },
-        {
-          "color": "amber",
-          "tag": "2. Simple Past Tense (Geçmiş Zaman Pasif Yapı)",
-          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px;'><font color=\"#FFFF00\">was/were</font> + <font color=\"#00FFFF\">V3</font></td><td style='padding:8px;'>The emails <font color=\"#FFFF00\">were</font> <font color=\"#00FFFF\">sent</font> by Ali. [cite: 78, 80]</td></tr></tbody></table>"
-        },
-        {
-          "color": "purple",
-          "tag": "3. Future Tense (Gelecek Zaman Pasif Yapı)",
-          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px;'><font color=\"#FFFF00\">will be</font> + <font color=\"#00FFFF\">V3</font></td><td style='padding:8px;'>The emails <font color=\"#FFFF00\">will be</font> <font color=\"#00FFFF\">sent</font> by Ali. [cite: 102, 104]</td></tr></tbody></table>"
-        },
-        {
-          "color": "blue",
-          "tag": "4. Present Continuous (Şimdiki Zaman Pasif Yapı)",
-          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px;'><font color=\"#FFFF00\">is/are being</font> + <font color=\"#00FFFF\">V3</font></td><td style='padding:8px;'>The emails <font color=\"#FFFF00\">are being</font> <font color=\"#00FFFF\">sent</font> by Ali. [cite: 126, 128]</td></tr></tbody></table>"
-        },
-        {
-          "color": "green",
-          "tag": "5. Past Continuous (Sürekli Geçmiş Zaman Pasif Yapı)",
-          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px;'><font color=\"#FFFF00\">was/were being</font> + <font color=\"#00FFFF\">V3</font></td><td style='padding:8px;'>The emails <font color=\"#FFFF00\">were being</font> <font color=\"#00FFFF\">sent</font> by Ali. [cite: 143, 145]</td></tr></tbody></table>"
-        },
-        {
-          "color": "orange",
-          "tag": "6. Modals (Modals Pasif Yapı)",
-          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px;'><font color=\"#FFFF00\">can/must/should be</font> + <font color=\"#00FFFF\">V3</font></td><td style='padding:8px;'>Ali <font color=\"#FFFF00\">can be</font> <font color=\"#00FFFF\">sent</font>. [cite: 30, 41, 47]</td></tr></tbody></table>"
-        }
+      "label": "Aktif vs Pasif",
+      "type": "table",
+      "headers": ["Tür", "Formül", "Örnek"],
+      "rows": [
+        ["AKTİF", "Özne + fiili yapar", "Ali sent the emails."],
+        ["PASİF", "Özne + BE + V3", "The emails were sent by Ali."],
+        ["BY", "Kimin yaptığını belirtir (opsiyonel)", "…sent BY Ali. / …spoken in many countries."]
+      ]
+    },
+    {
+      "label": "Zaman Formülleri",
+      "type": "table",
+      "headers": ["Zaman", "Pasif Formül", "Örnek"],
+      "rows": [
+        ["Simple Present", "AM / IS / ARE + V3", "English is spoken here."],
+        ["Simple Past", "WAS / WERE + V3", "The emails were sent."],
+        ["Future", "WILL BE + V3", "The book will be translated."],
+        ["Present Continuous", "IS/ARE + BEING + V3", "The windows are being cleaned."],
+        ["Past Continuous", "WAS/WERE + BEING + V3", "The emails were being sent."],
+        ["Modal", "MODAL + BE + V3", "It must be done. / It should be sent."]
+      ]
+    },
+    {
+      "label": "Örnek Cümleler",
+      "type": "table",
+      "headers": ["Türkçe", "İngilizce"],
+      "rows": [
+        ["İngilizce birçok ülkede konuşulur.", "English is spoken in many countries."],
+        ["E-postalar Ali tarafından gönderildi.", "The emails were sent by Ali."],
+        ["Bu kitap Türkçeye çevrilecek.", "This book will be translated into Turkish."],
+        ["Camlar şu an temizleniyor.", "The windows are being cleaned."],
+        ["Belgeler müdür tarafından imzalandı.", "The documents were signed by the manager."],
+        ["Her şey saat 8'e kadar bitirilecek.", "Everything will be finished by 8 o'clock."]
       ]
     }
   ]
