@@ -67,7 +67,7 @@
     { "id": 66, "tr": "Telefonum dün tamir edildi.", "en": "My phone was repaired yesterday." },
     { "id": 67, "tr": "Telefonum yarın tamir edilecek.", "en": "My phone will be repaired tomorrow." },
     { "id": 68, "tr": "Kapılar kilitlendi.", "en": "The doors were locked." },
-    { "id": 69, "tr": "Kapılar kilitleniyor.", "en": "The doors are being locked." },
+    { "id": 69, "tr": "Kapılar kilitleniyor.", "en": "The doors are locked." },
     { "id": 70, "tr": "Kapılar şu anda kilitleniyor.", "en": "The doors are being locked right now." },
     { "id": 71, "tr": "Kapılar akşamleyin kilitlenecek.", "en": "The doors will be locked in the evening." },
     { "id": 72, "tr": "Savaşlar sona erdirilecek.", "en": "The wars will be ended." },
