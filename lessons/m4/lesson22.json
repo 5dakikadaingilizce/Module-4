@@ -127,7 +127,7 @@
     { "id": 126, "tr": "Kazada kimse yaralanmadı.", "en": "Nobody was injured in the accident." },
     { "id": 127, "tr": "Kazada kimse yaralandı mı?", "en": "Was anyone injured in the accident?" },
     { "id": 128, "tr": "Kazada kimse yaralanmadı mı?", "en": "Wasn't anyone injured in the accident?" },
-    { "id": 129, "tr": "Nasıl kazada kimse yaralanmadı?", "en": "How was nobody injured in the accident?" },
+    { "id": 129, "tr": "Nasıl kazada kimse yaralanmadı?", "en": "How was nobody injured in the accident? / How wasn't anybody injured in the accident?" },
     { "id": 130, "tr": "Yeni bir köprü inşa ediliyor.", "en": "A new bridge is being built." },
     { "id": 131, "tr": "Yeni bir köprü inşa edildi.", "en": "A new bridge was built." },
     { "id": 132, "tr": "Yeni bir köprü inşa edilmedi.", "en": "A new bridge wasn't built." },
