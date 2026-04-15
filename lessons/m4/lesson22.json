@@ -242,7 +242,7 @@
     { "id": 241, "tr": "Biletler internetten satılır.", "en": "The tickets are sold online." },
     { "id": 242, "tr": "Biletler internetten satıldı.", "en": "The tickets were sold online." },
     { "id": 243, "tr": "Biletler internetten satılacak.", "en": "The tickets will be sold online." },
-    { "id": 244, "tr": "Biletler internetten mi satılıyor?", "en": "Are the tickets being sold online?" },
+    { "id": 244, "tr": "Biletler internetten mi satılıyor?", "en": "Are the tickets sold online?" },
     { "id": 245, "tr": "Biletler nerede satılıyor?", "en": "Where are the tickets sold?" },
     { "id": 246, "tr": "Şehir merkezi için biletler nerede satılıyor?", "en": "Where are the tickets for downtown sold?" },
     { "id": 247, "tr": "Şehir merkezine giden yol kapatıldı.", "en": "The road to downtown was closed." },
