@@ -233,7 +233,7 @@
     { "id": 232, "tr": "Tüm koltuklar ne zaman rezerve edildi?", "en": "When were all seats reserved?" },
     { "id": 233, "tr": "Neden tüm koltuklar rezerve edilmedi?", "en": "Why weren't all seats reserved?" },
     { "id": 234, "tr": "Işıklar otomatik olarak kapanır.", "en": "The lights are turned off automatically." },
-    { "id": 235, "tr": "Burada ışıklar otomatik olarak kapanmaz.", "en": "The lights are not turned off automatically here." },
+    { "id": 235, "tr": "Burada ışıklar otomatik olarak kapanmaz.", "en": "The lights aren't turned off automatically here." },
     { "id": 236, "tr": "Işıklar otomatik olarak kapandı.", "en": "The lights were turned off automatically." },
     { "id": 237, "tr": "Işıklar otomatik olarak kapanmadı.", "en": "The lights weren't turned off automatically." },
     { "id": 238, "tr": "Işıklar otomatik olarak kapanacak.", "en": "The lights will be turned off automatically." },
