@@ -221,7 +221,7 @@
     { "id": 220, "tr": "Müşteriler bilgilendirilecek.", "en": "The customers will be informed." },
     { "id": 221, "tr": "Müşteriler bilgilendiriliyordu.", "en": "The customers were being informed." },
     { "id": 222, "tr": "Müşteriler şuan bilgilendiriliyor.", "en": "The customers are being informed now." },
-    { "id": 223, "tr": "Müşteriler ne zaman bilgilendirilecek?", "en": "When will customers be informed?" },
+    { "id": 223, "tr": "Müşteriler ne zaman bilgilendirilecek?", "en": "When will the customers be informed?" },
     { "id": 224, "tr": "Hata düzeltilecek.", "en": "The error will be fixed." },
     { "id": 225, "tr": "Hata düzeltildi.", "en": "The error was fixed." },
     { "id": 226, "tr": "Hata düzeltilmedi.", "en": "The error wasn't fixed." },
