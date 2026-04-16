@@ -75,7 +75,7 @@
     { "id": 74, "tr": "Her şey iptal edilecek.", "en": "Everything will be cancelled." },
     { "id": 75, "tr": "Hiçbir şey iptal edilmeyecek.", "en": "Nothing will be cancelled." },
     { "id": 76, "tr": "Savaşta yeni silahlar kullanılacak.", "en": "New weapons will be used in the war." },
-    { "id": 77, "tr": "Savaşta yeni silahlar kullanılıyor.", "en": "New weapons are being used in the war." },
+    { "id": 77, "tr": "Savaşta yeni silahlar kullanılır.", "en": "New weapons are used in the war." },
     { "id": 78, "tr": "Şuan savaşta yeni silahlar kullanılıyor.", "en": "New weapons are being used in the war now." },
     { "id": 79, "tr": "Teklifimiz onaylandı.", "en": "Our offer was approved." },
     { "id": 80, "tr": "Teklifimiz reddedildi.", "en": "Our offer was rejected." },
