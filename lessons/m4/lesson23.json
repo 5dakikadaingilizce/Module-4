@@ -41,7 +41,7 @@
   { "id": 40, "tr": "Camlar temizlenmiş miydi?", "en": "Had the windows been cleaned?" },
   { "id": 41, "tr": "Neden camlar temizlenmemişti?", "en": "Why hadn't the windows been cleaned?" },
   { "id": 42, "tr": "Proje tamamlanmıştı.", "en": "The project had been completed." },
-  { "id": 43, "tr": "Proje tamamlanmıştı.", "en": "The project had been completed." },
+  { "id": 43, "tr": "Proje tamamlanmamıştı.", "en": "The project hadn't been completed." },
   { "id": 44, "tr": "Proje tamamlanmış mıydı?", "en": "Had the project been completed?" },
   { "id": 45, "tr": "Proje ne zaman tamamlanmıştı?", "en": "When had the project been completed?" },
   { "id": 46, "tr": "Ali email gönderebilir.", "en": "Ali can send the emails." },
