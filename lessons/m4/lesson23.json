@@ -105,7 +105,7 @@
   { "id": 104, "tr": "Bu kitaplar neden okunamaz?", "en": "Why can't these books be read?" },
   { "id": 105, "tr": "Bu kitaplar okunacak.", "en": "These books will be read." },
   { "id": 106, "tr": "Sorularım şu ana kadar yanıtlanmadı.", "en": "My questions haven't been answered so far." },
-  { "id": 107, "tr": "Sorularım şu ana kadar yanıtlanamadı.", "en": "My questions haven't been able to be answered so far." },
+  { "id": 107, "tr": "Sorularım şu ana kadar yanıtlanamadı.", "en": "My questions couldn't be answered so far." },
   { "id": 108, "tr": "Sorularım 10 dakika öncesine kadar yanıtlanmamıştı.", "en": "My questions hadn't been answered until 10 minutes ago." },
   { "id": 109, "tr": "Sorularım yanıtlanmak zorunda.", "en": "My questions have to be answered." },
   { "id": 110, "tr": "Sorularım yanıtlansa iyi olur.", "en": "My questions should be answered." },
