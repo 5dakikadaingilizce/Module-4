@@ -69,7 +69,7 @@
   { "id": 68, "tr": "Rapor müdür tarafından yazılmalı.", "en": "The report must be written by the manager." },
   { "id": 69, "tr": "Rapor müdür tarafından yazılabilir.", "en": "The report can be written by the manager." },
   { "id": 70, "tr": "Rapor müdür tarafından yazılmak zorunda.", "en": "The report has to be written by the manager." },
-  { "id": 71, "tr": "Rapor müdür tarafında yazılsa iyi olur.", "en": "The report should be written by the manager." },
+  { "id": 71, "tr": "Rapor müdür tarafından yazılsa iyi olur.", "en": "The report should be written by the manager." },
   { "id": 72, "tr": "Rapor müdür tarafından yazılabilirdi.", "en": "The report could be written by the manager." },
   { "id": 73, "tr": "Raporun müdür tarafından yazılması lazım.", "en": "The report needs to be written by the manager." },
   { "id": 74, "tr": "Rapor müdür tarafından yazılacak.", "en": "The report will be written by the manager." },
