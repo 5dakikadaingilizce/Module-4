@@ -63,7 +63,7 @@
   { "id": 62, "tr": "Ali'nin email göndermesi gerekiyor.", "en": "Ali needs to send the emails." },
   { "id": 63, "tr": "Emaillerin Ali tarafından gönderilmesi gerekiyor.", "en": "The emails need to be sent by Ali." },
   { "id": 64, "tr": "Ali email gönderse iyi olur.", "en": "Ali should send the emails." },
-  { "id": 65, "tr": "Emailler Ali tarafından gönderilmeli.", "en": "The emails should be sent by Ali." },
+  { "id": 65, "tr": "Emailler Ali tarafından gönderilse iyi olur.", "en": "The emails should be sent by Ali." },
   { "id": 66, "tr": "Ali email gönderirdi.", "en": "Ali would send the emails." },
   { "id": 67, "tr": "Emailler Ali tarafından gönderilirdi.", "en": "The emails would be sent by Ali." },
   { "id": 68, "tr": "Rapor müdür tarafından yazılmalı.", "en": "The report must be written by the manager." },
