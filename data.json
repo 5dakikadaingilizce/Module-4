@@ -20,9 +20,10 @@
   { "id": 20.1, "name": "Lesson #20.1",     "subTitle": "FİİLDEN -> FİİL TÜRETME part 1",                          "file": "lessons/m4/lesson20.1.json",     "logo": "lessonlogo20.svg", "notes": "lessons/m4/notes/m4lesson20.1_notes.json"  },
   { "id": 20.2, "name": "Lesson #20.2",     "subTitle": "FİİLDEN -> FİİL TÜRETME part 2",                          "file": "lessons/m4/lesson20.2.json",     "logo": "lessonlogo20.svg", "notes": "lessons/m4/notes/m4lesson20.2_notes.json"  },
   { "id": 20.3, "name": "Lesson #20.3",     "subTitle": "FİİLDEN -> FİİL TÜRETME part 3",                          "file": "lessons/m4/lesson20.3.json",     "logo": "lessonlogo20.svg", "notes": "lessons/m4/notes/m4lesson20.3_notes.json"  },
-  { "id": 21, "name": "Lesson #21",     "subTitle": "PASİF CÜMLELERE GİRİŞ",                                        "file": "lessons/m4/lesson21.json",     "logo": "lessonlogo21.svg", "notes": "lessons/m4/notes/m4lesson21_notes.json"  },
-  { "id": 22, "name": "Lesson #22",     "subTitle": "5 ZAMANDA PASİF CÜMLELER",                                      "file": "lessons/m4/lesson22.json",     "logo": "lessonlogo22.svg"  },
-  { "id": 23, "name": "Lesson #23",     "subTitle": "PRESENT-PAST PERFECT VE MODAL PASİF CÜMLELER",                                      "file": "lessons/m4/lesson23.json",     "logo": "lessonlogo23.svg"  },
+  { "id": 21, "name": "Lesson #21",     "subTitle": "PASİF CÜMLELERE GİRİŞ",                                       "file": "lessons/m4/lesson21.json",     "logo": "lessonlogo21.svg", "notes": "lessons/m4/notes/m4lesson21_notes.json"  },
+  { "id": 22, "name": "Lesson #22",     "subTitle": "5 ZAMANDA PASİF CÜMLELER",                                    "file": "lessons/m4/lesson22.json",     "logo": "lessonlogo22.svg"  },
+  { "id": 23, "name": "Lesson #23",     "subTitle": "PRESENT-PAST PERFECT VE MODAL PASİF CÜMLELER",                "file": "lessons/m4/lesson23.json",     "logo": "lessonlogo23.svg"  },
+  { "id": 24, "name": "Lesson #24",     "subTitle": "PASİF CÜMLELERE VEDA",                                        "file": "lessons/m4/lesson24.json",     "logo": "lessonlogo24.svg"  },
 
 
   { "id": 37, "name": "B1 Vocabulary",     "subTitle": "B1 Vocabulary",                                             "file": "lessons/m4/b1.json",     "logo": "b1logo.png"  }
