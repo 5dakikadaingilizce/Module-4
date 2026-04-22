@@ -24,6 +24,7 @@
   { "id": 22, "name": "Lesson #22",     "subTitle": "5 ZAMANDA PASİF CÜMLELER",                                    "file": "lessons/m4/lesson22.json",     "logo": "lessonlogo22.svg"  },
   { "id": 23, "name": "Lesson #23",     "subTitle": "PRESENT-PAST PERFECT VE MODAL PASİF CÜMLELER",                "file": "lessons/m4/lesson23.json",     "logo": "lessonlogo23.svg"  },
   { "id": 24, "name": "Lesson #24",     "subTitle": "PASİF CÜMLELERE VEDA",                                        "file": "lessons/m4/lesson24.json",     "logo": "lessonlogo24.svg" ,"notes": "lessons/m4/notes/m4lesson24_notes.json"  },
+  { "id": 24.1, "name": "Lesson #24.1",     "subTitle": "PASİF CÜMLELERE VEDA-1",                                  "file": "lessons/m4/lesson24.1.json",     "logo": "lessonlogo24.svg" },
   { "id": 25, "name": "Lesson #25",     "subTitle": "EVER YAPILARI",                                               "file": "lessons/m4/lesson25.json",     "logo": "lessonlogo25.svg" ,"notes": "lessons/m4/notes/m4lesson25_notes.json"  },
 
 
