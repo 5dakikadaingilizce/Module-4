@@ -1272,17 +1272,17 @@
   {
     "id": 255,
     "tr": "Et fiyatları 10 doların altına düşürüldü.",
-    "en": "The prices of meat were decreased below ten dollars."
+    "en": "The prices of meat were decreased under ten dollars."
   },
   {
     "id": 256,
     "tr": "Et fiyatları 5 doların altına düşürülmeli.",
-    "en": "The prices of meat must be decreased below five dollars."
+    "en": "The prices of meat must be decreased under five dollars."
   },
   {
     "id": 257,
     "tr": "Et fiyatları 5 doların altına düşürülse iyi olur.",
-    "en": "The prices of meat should be decreased below five dollars."
+    "en": "The prices of meat should be decreased under five dollars."
   },
   {
     "id": 258,
