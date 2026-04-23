@@ -32,7 +32,7 @@
   {
     "id": 7,
     "tr": "Bahçemin sulanmasını istiyorum.",
-    "en": "I want my garden watered."
+    "en": "I want my garden watered / I want my garden to be watered."
   },
   {
     "id": 8,
@@ -1752,7 +1752,7 @@
   {
     "id": 351,
     "tr": "İngilizcenin çok kolay bir dil olduğunun öğrencilerim tarafından bilinmesini istiyorum.",
-    "en": "I want my students to know that English is a very easy language."
+    "en": "I want it to be known by my students that English is a very easy language."
   },
   {
     "id": 352,
