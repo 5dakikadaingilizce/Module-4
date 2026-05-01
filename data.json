@@ -27,6 +27,7 @@
   { "id": 24.1, "name": "Lesson #24.1",     "subTitle": "PASİF CÜMLELERE VEDA-1",                                  "file": "lessons/m4/lesson24.1.json",     "logo": "lessonlogo24.svg" },
   { "id": 25, "name": "Lesson #25",     "subTitle": "EVER YAPILARI",                                               "file": "lessons/m4/lesson25.json",     "logo": "lessonlogo25.svg" ,"notes": "lessons/m4/notes/m4lesson25_notes.json"  },
   { "id": 26, "name": "Lesson #26",     "subTitle": "THAT #RELATIVE CLAUSE Giriş",                                 "file": "lessons/m4/lesson26.json",     "logo": "lessonlogo26.svg"  },
+  { "id": 27, "name": "Lesson #27",     "subTitle": "who - whom- whose- #RELATIVE CLAUSE",                         "file": "lessons/m4/lesson27.json",     "logo": "lessonlogo27.svg"  },
 
 
 
