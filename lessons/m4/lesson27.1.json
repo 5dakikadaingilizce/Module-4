@@ -52,17 +52,17 @@
   {
     "id": 11,
     "tr": "Amerika’ya giden arkadaşının ne zaman gelmeli?",
-    "en": "When must your friend who went to America  come?"
+    "en": "When must your friend who went to America come?"
   },
   {
     "id": 12,
     "tr": "Amerika’ya giden arkadaşının ne zaman gelse iyi olur?",
-    "en": "When should your friend who went to America  come?"
+    "en": "When should your friend who went to America come?"
   },
   {
     "id": 13,
     "tr": "Amerika’ya giden arkadaşının ne zaman Türkiye'ye dönmüş?",
-    "en": "When had your friend who went to America  come back to Turkey?"
+    "en": "When had your friend who went to America come back to Turkey?"
   },
   {
     "id": 14,
@@ -107,12 +107,12 @@
   {
     "id": 22,
     "tr": "Para verdiğim arkadaşım yeni bir telefon alacak.",
-    "en": "My friend whom I gave money will buy a new phone"
+    "en": "My friend whom I gave money will buy a new phone."
   },
   {
     "id": 23,
     "tr": "Para verdiğim arkadaşım yeni bir telefon almayacak.",
-    "en": "My friend whom I gave money won't buy a new phone"
+    "en": "My friend whom I gave money won't buy a new phone."
   },
   {
     "id": 24,
@@ -161,13 +161,13 @@
   },
   {
     "id": 33,
-    "tr": "Parasını harcadığım arkadaşım mutsuz",
-    "en": "My friend whose money I spent is unhappy"
+    "tr": "Parasını harcadığım arkadaşım mutsuz.",
+    "en": "My friend whose money I spent is unhappy."
   },
   {
     "id": 34,
-    "tr": "Parasını harcadığım arkadaşım mutsuzdu",
-    "en": "My friend whose money I spent was unhappy"
+    "tr": "Parasını harcadığım arkadaşım mutsuzdu.",
+    "en": "My friend whose money I spent was unhappy."
   },
   {
     "id": 35,
@@ -181,8 +181,8 @@
   },
   {
     "id": 37,
-    "tr": "Parasını harcadığın arkadaşın mutsuz olacak",
-    "en": "Your friend whose money you spent will be unhappy"
+    "tr": "Parasını harcadığın arkadaşın mutsuz olacak.",
+    "en": "Your friend whose money you spent will be unhappy."
   },
   {
     "id": 38,
@@ -191,13 +191,13 @@
   },
   {
     "id": 39,
-    "tr": "Pahalı bir arabası olan adamı gördüm",
-    "en": "I saw the man who has an expensive car"
+    "tr": "Pahalı bir arabası olan adamı gördüm.",
+    "en": "I saw the man who has an expensive car."
   },
   {
     "id": 40,
-    "tr": "Az önce Pahalı bir arabası olan bir adam gördüm",
-    "en": "I have just seen a man who has an expensive car"
+    "tr": "Az önce Pahalı bir arabası olan bir adam gördüm.",
+    "en": "I have just seen a man who has an expensive car."
   },
   {
     "id": 41,
@@ -232,12 +232,12 @@
   {
     "id": 47,
     "tr": "Dün arabada gördüğüm adam sana selam söyledi.",
-    "en": "The man whom I saw in the car yesterday said hello to you"
+    "en": "The man whom I saw in the car yesterday said hello to you."
   },
   {
     "id": 48,
     "tr": "Dün arabada gördüğüm adam sana selam söylemedi.",
-    "en": "The man whom I saw in the car yesterday didn't say hello to you"
+    "en": "The man whom I saw in the car yesterday didn't say hello to you."
   },
   {
     "id": 49,
@@ -252,62 +252,62 @@
   {
     "id": 51,
     "tr": "Az önce arabada gördüğüm adam sana selam söyledi.",
-    "en": "The man whom I have just seen in the car said hello to you"
+    "en": "The man whom I have just seen in the car said hello to you."
   },
   {
     "id": 52,
     "tr": "Dün bizi gören adam",
-    "en": "The  man who saw us yesterday"
+    "en": "The man who saw us yesterday"
   },
   {
     "id": 53,
     "tr": "Dün bizi gören adam İngiltereli.",
-    "en": "The  man who saw us yesterday is from England"
+    "en": "The man who saw us yesterday is from England."
   },
   {
     "id": 54,
-    "tr": "Dün bizi gören adam benim öğretmenim",
-    "en": "The  man who saw us yesterday is my teacher"
+    "tr": "Dün bizi gören adam benim öğretmenim.",
+    "en": "The man who saw us yesterday is my teacher."
   },
   {
     "id": 55,
     "tr": "Dün bizi gören adam bugün beni aradı.",
-    "en": "The  man who saw us yesterday called me today"
+    "en": "The man who saw us yesterday called me today."
   },
   {
     "id": 56,
     "tr": "Dün bizi gören adam az önce beni aradı.",
-    "en": "The  man who saw us yesterday has just called me"
+    "en": "The man who saw us yesterday has just called me."
   },
   {
     "id": 57,
-    "tr": "Bahçede oturan adam",
-    "en": "The man who sits in the garden"
+    "tr": "Bahçede oturan adam.",
+    "en": "The man who sits in the garden."
   },
   {
     "id": 58,
-    "tr": "Bahçede oturan adam bize elma verdi",
-    "en": "The man who sat in the garden gave us apples"
+    "tr": "Bahçede oturan adam bize elma verdi.",
+    "en": "The man who sat in the garden gave us apples."
   },
   {
     "id": 59,
-    "tr": "Bahçede oturan adam bize elma verecek",
-    "en": "The man who is sitting in the garden will give us apples"
+    "tr": "Bahçede oturan adam bize elma verecek.",
+    "en": "The man who is sitting in the garden will give us apples."
   },
   {
     "id": 60,
-    "tr": "Bahçede oturan adam seni çağırdı",
-    "en": "The man who sat in the garden called you"
+    "tr": "Bahçede oturan adam seni çağırdı.",
+    "en": "The man who sat in the garden called you."
   },
   {
     "id": 61,
-    "tr": "Bahçede oturan adam seni çağırıyor",
-    "en": "The man who is sitting in the garden is calling you"
+    "tr": "Bahçede oturan adam seni çağırıyor.",
+    "en": "The man who is sitting in the garden is calling you."
   },
   {
     "id": 62,
-    "tr": "Bahçede oturan adam seni çağırıyordu",
-    "en": "The man who was sitting in the garden was calling you"
+    "tr": "Bahçede oturan adam seni çağırıyordu.",
+    "en": "The man who was sitting in the garden was calling you."
   },
   {
     "id": 63,
@@ -316,28 +316,28 @@
   },
   {
     "id": 64,
-    "tr": "Önemli bir şarkıcı olan Ali  Ankaralı",
-    "en": "Ali, who is an important singer, is from Ankara"
+    "tr": "Önemli bir şarkıcı olan Ali Ankaralı.",
+    "en": "Ali, who is an important singer, is from Ankara."
   },
   {
     "id": 65,
-    "tr": "Önemli bir şarkıcı olan Ali  Türkiye'de çok ünlüdür",
-    "en": "Ali, who is an important singer is very famous in Turkey"
+    "tr": "Önemli bir şarkıcı olan Ali Türkiye'de çok ünlüdür.",
+    "en": "Ali, who is an important singer is very famous in Turkey."
   },
   {
     "id": 66,
-    "tr": "Önemli bir şarkıcı olan Ali  dünyada çok ünlüdür",
-    "en": "Ali, who is an important singer is very famous in the world"
+    "tr": "Önemli bir şarkıcı olan Ali dünyada çok ünlüdür.",
+    "en": "Ali, who is an important singer is very famous in the world."
   },
   {
     "id": 67,
-    "tr": "Önemli bir şarkıcı olan Ali  yarın konser verecek",
-    "en": "Ali, who is an important singer will give a concert tomorrow"
+    "tr": "Önemli bir şarkıcı olan Ali yarın konser verecek.",
+    "en": "Ali, who is an important singer will give a concert tomorrow."
   },
   {
     "id": 68,
-    "tr": "Önemli bir şarkıcı olan Ali  yeni bir albüm çıkardı",
-    "en": "Ali, who is an important singer released a new album"
+    "tr": "Önemli bir şarkıcı olan Ali yeni bir albüm çıkardı.",
+    "en": "Ali, who is an important singer released a new album."
   },
   {
     "id": 69,
@@ -352,22 +352,22 @@
   {
     "id": 71,
     "tr": "Annesi zengin olan adam onlara bana yardım etmelerini söyledi.",
-    "en": "The man whose mother is rich told them to help me"
+    "en": "The man whose mother is rich told them to help me."
   },
   {
     "id": 72,
     "tr": "Annesi zengin olan adam büyük bir evde yaşıyor.",
-    "en": "The man whose mother is rich lives in a big house"
+    "en": "The man whose mother is rich lives in a big house."
   },
   {
     "id": 73,
     "tr": "Annesi zengin olan adam 2 yıldır büyük bir evde yaşıyor.",
-    "en": "The man whose mother is rich has been living in a big house  for 2 years"
+    "en": "The man whose mother is rich has been living in a big house for 2 years."
   },
   {
     "id": 74,
     "tr": "Annesi zengin olan adam bizden önce bu evde yaşamış.",
-    "en": "The man whose mother is rich had lived in this house before us"
+    "en": "The man whose mother is rich had lived in this house before us."
   },
   {
     "id": 75,
@@ -377,27 +377,27 @@
   {
     "id": 76,
     "tr": "Köpeği küçük olan kadın bizim komşumuz.",
-    "en": "The woman whose dog is small is our neighbor"
+    "en": "The woman whose dog is small is our neighbor."
   },
   {
     "id": 77,
     "tr": "Köpeği küçük olan kadın çok naziktir.",
-    "en": "The woman whose dog is small is very kind"
+    "en": "The woman whose dog is small is very kind."
   },
   {
     "id": 78,
     "tr": "Köpeği küçük olan kadın köpeğiyle parkta yürüyor.",
-    "en": "The woman whose dog is small is walking in the park with her dog"
+    "en": "The woman whose dog is small is walking in the park with her dog."
   },
   {
     "id": 79,
     "tr": "Köpeği küçük olan kadın köpeğiyle parkta yürüyordu.",
-    "en": "The woman whose dog is small was walking in the park with her dog"
+    "en": "The woman whose dog is small was walking in the park with her dog."
   },
   {
     "id": 80,
     "tr": "Köpeği küçük olan kadın her sabah köpeğiyle parkta yürür.",
-    "en": "The woman whose dog is small walks in the park with her dog every morning"
+    "en": "The woman whose dog is small walks in the park with her dog every morning."
   },
   {
     "id": 81,
@@ -406,18 +406,18 @@
   },
   {
     "id": 82,
-    "tr": "Amerika’ya giden arkadaşım bana yeni bir telefon getirdi",
-    "en": "My friend who went to America brought me a new phone"
+    "tr": "Amerika’ya giden arkadaşım bana yeni bir telefon getirdi.",
+    "en": "My friend who went to America brought me a new phone."
   },
   {
     "id": 83,
-    "tr": "Amerika’ya giden arkadaşım bana iPhone 17 pro getirecek",
+    "tr": "Amerika’ya giden arkadaşım bana iPhone 17 pro getirecek.",
     "en": "My friend who went to America will bring me iPhone 17 pro."
   },
   {
     "id": 84,
     "tr": "Amerika’ya giden arkadaşın bana iPhone 17 pro getirebilir mi?",
-    "en": "Can your friend who went to America bring me iPhone 17 pro"
+    "en": "Can your friend who went to America bring me iPhone 17 pro."
   },
   {
     "id": 85,
@@ -426,13 +426,13 @@
   },
   {
     "id": 86,
-    "tr": "Burada yaşayan adam evini satmak istiyor",
-    "en": "The man who lives here wants to sell his house"
+    "tr": "Burada yaşayan adam evini satmak istiyor.",
+    "en": "The man who lives here wants to sell his house."
   },
   {
     "id": 87,
-    "tr": "Burada yaşayan adam evini satmak istemiyor",
-    "en": "The man who lives here doesn't want to sell his house"
+    "tr": "Burada yaşayan adam evini satmak istemiyor.",
+    "en": "The man who lives here doesn't want to sell his house."
   },
   {
     "id": 88,
@@ -467,7 +467,7 @@
   {
     "id": 94,
     "tr": "Yolda beni gören kadın annemin bir arkadaşı.",
-    "en": "The woman who saw me on the road is a friend of my mother"
+    "en": "The woman who saw me on the road is a friend of my mother."
   },
   {
     "id": 95,
@@ -477,12 +477,12 @@
   {
     "id": 96,
     "tr": "Yolda beni gören kadın çok şaşırmıştı.",
-    "en": "The woman who saw me on the road was very surprised"
+    "en": "The woman who saw me on the road was very surprised."
   },
   {
     "id": 97,
     "tr": "Yolda beni gören kadın bana gülümsedi.",
-    "en": "The woman who saw me on the road smiled at me"
+    "en": "The woman who saw me on the road smiled at me."
   },
   {
     "id": 98,
@@ -492,12 +492,12 @@
   {
     "id": 99,
     "tr": "Köpeği yolda beni gören kadın şu büyük evde yaşıyor.",
-    "en": "The woman whose dog saw me on the road lives in that big house"
+    "en": "The woman whose dog saw me on the road lives in that big house."
   },
   {
     "id": 100,
-    "tr": "Köpeği yolda beni gören kadın gülmeye başladı",
-    "en": "The woman whose dog saw me on the road started to laugh"
+    "tr": "Köpeği yolda beni gören kadın gülmeye başladı.",
+    "en": "The woman whose dog saw me on the road started to laugh."
   },
   {
     "id": 101,
@@ -507,17 +507,17 @@
   {
     "id": 102,
     "tr": "Yolda karşılaştığımız eski arkadaş benim Ankara'dan arkadaşım.",
-    "en": "Old friend whom we met on the road is my friend from Ankara"
+    "en": "Old friend whom we met on the road is my friend from Ankara."
   },
   {
     "id": 103,
     "tr": "Yolda karşılaştığımız eski arkadaş benim üniversitedeki oda arkadaşımdı.",
-    "en": "Old friend whom we met on the road was my roommate at the university"
+    "en": "Old friend whom we met on the road was my roommate at the university."
   },
   {
     "id": 104,
-    "tr": "Yolda karşılaştığımız eski arkadaş bana telefon numarasını verdi",
-    "en": "Old friend whom we met on the road gave me his phone number"
+    "tr": "Yolda karşılaştığımız eski arkadaş bana telefon numarasını verdi.",
+    "en": "Old friend whom we met on the road gave me his phone number."
   },
   {
     "id": 105,
@@ -527,7 +527,7 @@
   {
     "id": 106,
     "tr": "Yolda karşılaştığımız eski arkadaş başta bizi tanımadı.",
-    "en": "Old friend whom we met on the road didn't recognize us at first"
+    "en": "Old friend whom we met on the road didn't recognize us at first."
   },
   {
     "id": 107,
@@ -551,18 +551,18 @@
   },
   {
     "id": 111,
-    "tr": "Hastanede tanıştığımız adam iyi bir doctor",
-    "en": "The man whom we met at the hospital is a good doctor"
+    "tr": "Hastanede tanıştığımız adam iyi bir doktor.",
+    "en": "The man whom we met at the hospital is a good doctor."
   },
   {
     "id": 112,
-    "tr": "Hastanede tanıştığımız adam 3 yıldır hasta",
-    "en": "The man whom we met at the hospital has been sick for 3 years"
+    "tr": "Hastanede tanıştığımız adam 3 yıldır hasta.",
+    "en": "The man whom we met at the hospital has been sick for 3 years."
   },
   {
     "id": 113,
-    "tr": "Hastanede tanıştığımız adam 3 önce hastaymış",
-    "en": "The man whom we met at the hospital had been sick 3 years ago"
+    "tr": "Hastanede tanıştığımız adam 3 önce hastaymış.",
+    "en": "The man whom we met at the hospital had been sick 3 years ago."
   },
   {
     "id": 114,
@@ -572,17 +572,17 @@
   {
     "id": 115,
     "tr": "Sahilde gördüğümüz çocuk bizim okulda okuyor.",
-    "en": "The child whom we saw at the seaside studies at our school"
+    "en": "The child whom we saw at the seaside studies at our school."
   },
   {
     "id": 116,
     "tr": "Sahilde gördüğümüz çocuk komşumun oğlu.",
-    "en": "The child whom we saw at the seaside is the son of my neighbor"
+    "en": "The child whom we saw at the seaside is the son of my neighbor."
   },
   {
     "id": 117,
     "tr": "Sahilde gördüğümüz çocuk kim?",
-    "en": "Who is the child whom we saw at the seaside"
+    "en": "Who is the child whom we saw at the seaside."
   },
   {
     "id": 118,
@@ -596,23 +596,23 @@
   },
   {
     "id": 120,
-    "tr": "Çalıştığım projedeki kadın çok profesyonel",
+    "tr": "Çalıştığım projedeki kadın çok profesyonel.",
     "en": "The woman whom I work with on the project is very professional."
   },
   {
     "id": 121,
-    "tr": "Çalıştığım projedeki kadın oxford üniversitesi mezunu",
+    "tr": "Çalıştığım projedeki kadın Oxford üniversitesi mezunu.",
     "en": "The woman whom I work with on the project is a graduate of Oxford university."
   },
   {
     "id": 122,
-    "tr": "Çalıştığım projedeki kadın yarın şubeyi ziyaret edecek",
-    "en": "The woman whom I work with on the project will visit the branch tomorrow"
+    "tr": "Çalıştığım projedeki kadın yarın şubeyi ziyaret edecek.",
+    "en": "The woman whom I work with on the project will visit the branch tomorrow."
   },
   {
     "id": 123,
     "tr": "Çalıştığım projedeki kadın tüm projeyi kontrol etti.",
-    "en": "The woman whom I work with on the project checked the whole project"
+    "en": "The woman whom I work with on the project checked the whole project."
   },
   {
     "id": 124,
@@ -622,22 +622,22 @@
   {
     "id": 125,
     "tr": "Dün tanıştığımız adam seni sordu.",
-    "en": "The man whom we met yesterday asked for you"
+    "en": "The man whom we met yesterday asked for you."
   },
   {
     "id": 126,
     "tr": "Dün tanıştığımız adam seni aradı.",
-    "en": "The man whom we met yesterday called you"
+    "en": "The man whom we met yesterday called you."
   },
   {
     "id": 127,
     "tr": "Dün tanıştığımız adam benim müdürüm.",
-    "en": "The man whom we met yesterday is my manager"
+    "en": "The man whom we met yesterday is my manager."
   },
   {
     "id": 128,
-    "tr": "Dün tanıştığımız adam ankaralı.",
-    "en": "The man whom we met yesterday is from Ankara"
+    "tr": "Dün tanıştığımız adam Ankaralı.",
+    "en": "The man whom we met yesterday is from Ankara."
   },
   {
     "id": 129,
@@ -657,12 +657,12 @@
   {
     "id": 132,
     "tr": "Kedisi bizim bahçede olan adam bize seslendi.",
-    "en": "The man whose cat is in our garden called us"
+    "en": "The man whose cat is in our garden called us."
   },
   {
     "id": 133,
     "tr": "Kedisi bizim bahçede olan adam bize elma verdi.",
-    "en": "The man whose cat is in our garden gave us apples"
+    "en": "The man whose cat is in our garden gave us apples."
   },
   {
     "id": 134,
@@ -672,22 +672,22 @@
   {
     "id": 135,
     "tr": "Çalıştığım şirketteki kadın çok tecrübeli.",
-    "en": "The woman whom I work with at the company is very experienced"
+    "en": "The woman whom I work with at the company is very experienced."
   },
   {
     "id": 136,
     "tr": "Çalıştığım şirketteki kadın izine çıktı.",
-    "en": "The woman whom I work with at the company went on leave"
+    "en": "The woman whom I work with at the company went on leave."
   },
   {
     "id": 137,
     "tr": "Çalıştığım şirketteki kadın izine çıkmak istiyor.",
-    "en": "The woman whom I work with at the company wants to go on leave"
+    "en": "The woman whom I work with at the company wants to go on leave."
   },
   {
     "id": 138,
     "tr": "Çalıştığım şirketteki kadın izine çıkmak istedi.",
-    "en": "The woman whom I work with at the company wanted to go on leave"
+    "en": "The woman whom I work with at the company wanted to go on leave."
   },
   {
     "id": 139,
@@ -696,23 +696,23 @@
   },
   {
     "id": 140,
-    "tr": "Kızı benim sınıfımda olan öğretmen çok başarılı",
-    "en": "The teacher whose daughter is in my classroom is very successful"
+    "tr": "Kızı benim sınıfımda olan öğretmen çok başarılı.",
+    "en": "The teacher whose daughter is in my classroom is very successful."
   },
   {
     "id": 141,
-    "tr": "Kızı benim sınıfımda olan öğretmen bizim dükkana geldi",
-    "en": "The teacher whose daughter is in my classroom came to our store"
+    "tr": "Kızı benim sınıfımda olan öğretmen bizim dükkana geldi.",
+    "en": "The teacher whose daughter is in my classroom came to our store."
   },
   {
     "id": 142,
-    "tr": "Kızı benim sınıfımda olan öğretmen bizim dükkana geldi ve seni sordu",
-    "en": "The teacher whose daughter is in my classroom came to our store and asked for you"
+    "tr": "Kızı benim sınıfımda olan öğretmen bizim dükkana geldi ve seni sordu.",
+    "en": "The teacher whose daughter is in my classroom came to our store and asked for you."
   },
   {
     "id": 143,
     "tr": "Kızı benim sınıfımda olan öğretmen 3 yıldır bu binada oturuyor.",
-    "en": "The teacher whose daughter is in my classroom has lived in this building for 3 years"
+    "en": "The teacher whose daughter is in my classroom has lived in this building for 3 years."
   },
   {
     "id": 144,
@@ -721,43 +721,43 @@
   },
   {
     "id": 145,
-    "tr": "Eşi yurt dışında çalışan adam bu yaz eşini ziyaret edecek",
-    "en": "The man whose wife works abroad will visit his wife this summer"
+    "tr": "Eşi yurt dışında çalışan adam bu yaz eşini ziyaret edecek.",
+    "en": "The man whose wife works abroad will visit his wife this summer."
   },
   {
     "id": 146,
     "tr": "Eşi yurt dışında çalışan adam bizim şirkette çalışıyor.",
-    "en": "The man whose wife works abroad works at our company"
+    "en": "The man whose wife works abroad works at our company."
   },
   {
     "id": 147,
     "tr": "Köpeğini sürekli parka götüren kadın",
-    "en": "The woman who always take her dog  to the park"
+    "en": "The woman who always take her dog to the park"
   },
   {
     "id": 148,
     "tr": "Köpeğini sürekli parka götüren kadın benim komşum.",
-    "en": "The woman who always takes her dog  to the park is my neighbor."
+    "en": "The woman who always takes her dog to the park is my neighbor."
   },
   {
     "id": 149,
     "tr": "Köpeğini sürekli parka götüren kadını gördün mü?",
-    "en": "Did you see the woman who always takes her dog  to the park?"
+    "en": "Did you see the woman who always takes her dog to the park?"
   },
   {
     "id": 150,
     "tr": "Köpeğini sürekli parka götüren kadını tanıyor musun?",
-    "en": "Do you know the woman who always takes her dog  to the park?"
+    "en": "Do you know the woman who always takes her dog to the park?"
   },
   {
     "id": 151,
     "tr": "Köpeğini sürekli parka götüren kadını hatırlıyor musun?",
-    "en": "Do you remember  the woman who always takes her dog  to the park"
+    "en": "Do you remember the woman who always takes her dog to the park."
   },
   {
     "id": 152,
     "tr": "Eskiden köpeğini sürekli parka götüren kadını hatırlıyor musun?",
-    "en": "Do you remember  the woman who always used to take her dog  to the park"
+    "en": "Do you remember the woman who always used to take her dog to the park."
   },
   {
     "id": 153,
@@ -766,23 +766,23 @@
   },
   {
     "id": 154,
-    "tr": "Oğlu futbol oynayan baba oğlunu güldürüyor",
-    "en": "The father whose son plays football makes his son laugh"
+    "tr": "Oğlu futbol oynayan baba oğlunu güldürüyor.",
+    "en": "The father whose son plays football makes his son laugh."
   },
   {
     "id": 155,
     "tr": "Oğlu futbol oynayan baba saçını kestirdi.",
-    "en": "The father whose son plays football had his hair cut / The father whose son plays football got his hair cut"
+    "en": "The father whose son plays football had his hair cut / The father whose son plays football got his hair cut."
   },
   {
     "id": 156,
     "tr": "Oğlu futbol oynayan baba arabasını bize tamir ettirtti.",
-    "en": "The father whose son plays football got us to fix his car"
+    "en": "The father whose son plays football got us to fix his car."
   },
   {
     "id": 157,
     "tr": "Oğlu futbol oynayan baba oğlunu zorla eve götürdü.",
-    "en": "The father whose son plays football made his son go home"
+    "en": "The father whose son plays football made his son go home."
   },
   {
     "id": 158,
@@ -791,23 +791,23 @@
   },
   {
     "id": 159,
-    "tr": "Kızı okulda öğretmen olan kadın bize geldi",
-    "en": "The woman whose daughter is a teacher in the school came to us"
+    "tr": "Kızı okulda öğretmen olan kadın bize geldi.",
+    "en": "The woman whose daughter is a teacher in the school came to us."
   },
   {
     "id": 160,
     "tr": "Kızı okulda öğretmen olan kadın seni sordu.",
-    "en": "The woman whose daughter is a teacher in the school asked for you"
+    "en": "The woman whose daughter is a teacher in the school asked for you."
   },
   {
     "id": 161,
     "tr": "Kızı okulda öğretmen olan kadın 1 haftadır seni soruyor.",
-    "en": "The woman whose daughter is a teacher in the school has been asking for you for a week"
+    "en": "The woman whose daughter is a teacher in the school has been asking for you for a week."
   },
   {
     "id": 162,
     "tr": "Kızı okulda öğretmen olan kadın arabanın motorunun bozulmuş olduğunu gördü.",
-    "en": "The woman whose daughter is a teacher in the school saw  that the engine of the car had broken"
+    "en": "The woman whose daughter is a teacher in the school saw that the engine of the car had broken."
   },
   {
     "id": 163,
@@ -817,12 +817,12 @@
   {
     "id": 164,
     "tr": "Annemle aynı mahallede oturan kızkardeşim komşusu marketten köpeği için mama aldı.",
-    "en": "My sister’s neighbor  who lives in the same neighbourhood as my mother bought food for her dog from the market"
+    "en": "My sister’s neighbor who lives in the same neighbourhood as my mother bought food for her dog from the market."
   },
   {
     "id": 165,
-    "tr": "Annemle aynı mahallede oturan kızkardeşim  arkadaşıyla gezintiye çıktı.",
-    "en": "My sister who lives in the same neighbourhood as my mother went for a walk with her friend"
+    "tr": "Annemle aynı mahallede oturan kızkardeşim arkadaşıyla gezintiye çıktı.",
+    "en": "My sister who lives in the same neighbourhood as my mother went for a walk with her friend."
   },
   {
     "id": 166,
@@ -831,18 +831,18 @@
   },
   {
     "id": 167,
-    "tr": "Arkadaşımla aynı evde kalan kadın dün şehirden ayrıldı",
-    "en": "The woman who stayed in the same house as my friend left the city yesterday"
+    "tr": "Arkadaşımla aynı evde kalan kadın dün şehirden ayrıldı.",
+    "en": "The woman who stayed in the same house as my friend left the city yesterday."
   },
   {
     "id": 168,
     "tr": "Arkadaşımla aynı evde kalan kadın 2 aydır iş arıyor.",
-    "en": "The woman who stayed in the same house as my friend has been looking for a job for 2 months"
+    "en": "The woman who stayed in the same house as my friend has been looking for a job for 2 months."
   },
   {
     "id": 169,
-    "tr": "Arkadaşımla aynı evde kalan kadın izmirli",
-    "en": "The woman who stayed in the same house as my friend is from İzmir"
+    "tr": "Arkadaşımla aynı evde kalan kadın İzmirli.",
+    "en": "The woman who stayed in the same house as my friend is from İzmir."
   },
   {
     "id": 170,
@@ -852,12 +852,12 @@
   {
     "id": 171,
     "tr": "Arkadaşımla aynı evde kalan kadını görmedin mi?",
-    "en": "Didn't  you see the woman who stayed in the same house as my friend?"
+    "en": "Didn't you see the woman who stayed in the same house as my friend?"
   },
   {
     "id": 172,
     "tr": "Arkadaşımla aynı evde kalan kadın bize yemek yaptı.",
-    "en": "The woman who stayed in the same house as my friend cooked us a meal"
+    "en": "The woman who stayed in the same house as my friend cooked us a meal."
   },
   {
     "id": 173,
@@ -867,26 +867,26 @@
   {
     "id": 174,
     "tr": "Oğlu doktor olan kadın bizi akşam yemeğine davet etti.",
-    "en": "The woman whose son is a doctor invited us for dinner"
+    "en": "The woman whose son is a doctor invited us for dinner."
   },
   {
     "id": 175,
     "tr": "Oğlu doktor olan kadın bizi 2 saattir bekliyor.",
-    "en": "The woman whose son is a doctor has been waiting for us for 2 hours"
+    "en": "The woman whose son is a doctor has been waiting for us for 2 hours."
   },
   {
     "id": 176,
-    "tr": "Oğlu doktor olan kadın 1 ay önce yeni bir araba aldı",
-    "en": "The woman whose son is a doctor bought a new car one month ago"
+    "tr": "Oğlu doktor olan kadın 1 ay önce yeni bir araba aldı.",
+    "en": "The woman whose son is a doctor bought a new car one month ago."
   },
   {
     "id": 177,
-    "tr": "Oğlu doktor olan kadın eski evini çoktan sattı",
+    "tr": "Oğlu doktor olan kadın eski evini çoktan sattı.",
     "en": "The woman whose son is a doctor has already sold her old house."
   },
   {
     "id": 178,
-    "tr": "Oğlu doktor olan kadın eski evini henüz satmadı",
+    "tr": "Oğlu doktor olan kadın eski evini henüz satmadı.",
     "en": "The woman whose son is a doctor hasn't sold her old house yet."
   },
   {
@@ -912,7 +912,7 @@
   {
     "id": 183,
     "tr": "Çocuğu okuldan sonra bizimle kalan kadın bize teşekkür etmek için bir kek getirdi.",
-    "en": "The woman whose son stayed with us after the school brought us a cake to thank us"
+    "en": "The woman whose son stayed with us after the school brought us a cake to thank us."
   },
   {
     "id": 184,
@@ -927,7 +927,7 @@
   {
     "id": 186,
     "tr": "Çocuğu okuldan sonra bizimle kalan kadın çocuğunu almak için az önce geldi.",
-    "en": "The woman whose son stayed with us after the school has just arrived  to take her child"
+    "en": "The woman whose son stayed with us after the school has just arrived to take her child."
   },
   {
     "id": 187,
@@ -937,7 +937,7 @@
   {
     "id": 188,
     "tr": "Ailesi yurtdışında yaşayan adam onları ziyaret etmek için 3 yıldır para biriktiriyor.",
-    "en": "The man whose family lives abroad has saved money for 3  years to visit them"
+    "en": "The man whose family lives abroad has saved money for 3 years to visit them."
   },
   {
     "id": 189,
@@ -947,12 +947,12 @@
   {
     "id": 190,
     "tr": "Ailesi yurtdışında yaşayan adam geçen yıldan beri ailesini görmedi.",
-    "en": "The man whose family lives abroad hasn't seen his family since last year"
+    "en": "The man whose family lives abroad hasn't seen his family since last year."
   },
   {
     "id": 191,
     "tr": "Ailesi yurtdışında yaşayan adam buraya taşınmadan önce İngilizceyi öğrenmişti.",
-    "en": "The man whose family lives abroad had learned English before moving here"
+    "en": "The man whose family lives abroad had learned English before moving here."
   },
   {
     "id": 192,
@@ -962,12 +962,12 @@
   {
     "id": 193,
     "tr": "Oğlu yaz tatilinde bizimle kalan öğretmen bize güzel hediyeler gönderdi.",
-    "en": "The teacher whose son stayed with us during the summer holiday has sent us beautiful gifts"
+    "en": "The teacher whose son stayed with us during the summer holiday has sent us beautiful gifts."
   },
   {
     "id": 194,
-    "tr": "Oğlu yaz tatilinde bizimle kalan öğretmen 3 yıldır londra’da çalışıyor.",
-    "en": "The teacher whose son stayed with us during the summer holiday has been working  in London for three years"
+    "tr": "Oğlu yaz tatilinde bizimle kalan öğretmen 3 yıldır Londra’da çalışıyor.",
+    "en": "The teacher whose son stayed with us during the summer holiday has been working in London for three years."
   },
   {
     "id": 195,
@@ -982,7 +982,7 @@
   {
     "id": 197,
     "tr": "Oğlu yaz tatilinde bizimle kalan öğretmen ne zamandır burada?",
-    "en": "How long  has the teacher whose son stayed with us during the summer holiday been here?"
+    "en": "How long has the teacher whose son stayed with us during the summer holiday been here?"
   },
   {
     "id": 198,
@@ -992,17 +992,17 @@
   {
     "id": 199,
     "tr": "Kızı üniversiteye giden Ayşe, onu çok özledi.",
-    "en": "Ayşe, whose daughter goes to the university, missed her a lot"
+    "en": "Ayşe, whose daughter goes to the university, missed her a lot."
   },
   {
     "id": 200,
     "tr": "Kızı üniversiteye giden Ayşe, harçları ödemek için 2 aydır fazla mesai yapıyor.",
-    "en": "Ayşe, whose daughter goes to the university, has been working extra hours for two months to pay the fees"
+    "en": "Ayşe, whose daughter goes to the university, has been working extra hours for two months to pay the fees."
   },
   {
     "id": 201,
     "tr": "Kızı üniversiteye giden Ayşe, dün 3 tane yeni valiz satın aldı.",
-    "en": "Ayşe, whose daughter goes to the university, bought  new three suitcases yesterday"
+    "en": "Ayşe, whose daughter goes to the university, bought three new suitcases yesterday."
   },
   {
     "id": 202,
@@ -1012,17 +1012,17 @@
   {
     "id": 203,
     "tr": "Oğlu basketbol oynayan kadın maç için bize 2 bilet verdi.",
-    "en": "The woman whose son plays basketball gave us two tickets for the match"
+    "en": "The woman whose son plays basketball gave us two tickets for the match."
   },
   {
     "id": 204,
     "tr": "Oğlu basketbol oynayan kadın 3 yıldır oğlunun maçlarını izlemedi.",
-    "en": "The woman whose son plays basketball hasn't watched her son’s matches  for three years"
+    "en": "The woman whose son plays basketball hasn't watched her son’s matches for three years."
   },
   {
     "id": 205,
     "tr": "Oğlu basketbol oynayan kadın bizim binada oturuyor.",
-    "en": "The woman whose son plays basketball lives  in our building"
+    "en": "The woman whose son plays basketball lives in our building."
   },
   {
     "id": 206,
@@ -1032,7 +1032,7 @@
   {
     "id": 207,
     "tr": "Odayı temizleyen kadın yatağında altında kayıp kulaklığımı buldu.",
-    "en": "The woman who cleaned the room found my lost earphone under the bed"
+    "en": "The woman who cleaned the room found my lost earphone under the bed."
   },
   {
     "id": 208,
@@ -1042,7 +1042,7 @@
   {
     "id": 209,
     "tr": "Odayı temizleyen kadın 4 yıldır bu şirkette çalışıyor.",
-    "en": "The woman who cleaned the room has been working  at this company for four years"
+    "en": "The woman who cleaned the room has been working at this company for four years."
   },
   {
     "id": 210,
@@ -1052,7 +1052,7 @@
   {
     "id": 211,
     "tr": "Bizim hastanede çalışan doktorlar yeterince tecrübeli.",
-    "en": "The doctors who work in our hospital are experienced enough"
+    "en": "The doctors who work in our hospital are experienced enough."
   },
   {
     "id": 212,
@@ -1072,27 +1072,27 @@
   {
     "id": 215,
     "tr": "Bizim hastanede çalışan doktorlar 3 yıldır başarılı ameliyatlar gerçekleştiriyorlar.",
-    "en": "The doctors who work in our hospital have performed successful operations for three years"
+    "en": "The doctors who work in our hospital have performed successful operations for three years."
   },
   {
     "id": 216,
     "tr": "Gittiğimiz kafedeki müşteri",
-    "en": "The customer who was in the cafe  where we went"
+    "en": "The customer who was in the cafe where we went"
   },
   {
     "id": 217,
-    "tr": "Gittiğimiz kafedeki müşteri çok kabaydı",
-    "en": "The customer who was in the cafe  where we went was very rude"
+    "tr": "Gittiğimiz kafedeki müşteri çok kabaydı.",
+    "en": "The customer who was in the cafe where we went was very rude."
   },
   {
     "id": 218,
-    "tr": "Gittiğimiz kafedeki müşteriler çok kabaydı",
-    "en": "The customers who were in the cafe  where we went were very rude"
+    "tr": "Gittiğimiz kafedeki müşteriler çok kabaydı.",
+    "en": "The customers who were in the cafe where we went were very rude."
   },
   {
     "id": 219,
     "tr": "Gittiğimiz kafedeki müşteriler çok ses yapıyorlardı.",
-    "en": "The customer who were in the cafe  where we went were making a lot of noise"
+    "en": "The customer who were in the cafe where we went were making a lot of noise."
   },
   {
     "id": 220,
@@ -1101,13 +1101,13 @@
   },
   {
     "id": 221,
-    "tr": "Okulda tanıştığım öğrenci oxford üniversitesine girdi, kazandı.",
-    "en": "The student whom I met at the school got into the  Oxford university"
+    "tr": "Okulda tanıştığım öğrenci Oxford üniversitesine girdi, kazandı.",
+    "en": "The student whom I met at the school got into the Oxford university."
   },
   {
     "id": 222,
     "tr": "Okulda tanıştığım öğrenci, üç yıllık çalışmanın ardından bir tıp fakültesine girdi.",
-    "en": "The student whom I met at the school got into a medical faculty after three years of studying"
+    "en": "The student whom I met at the school got into a medical faculty after three years of studying."
   },
   {
     "id": 223,
@@ -1132,12 +1132,12 @@
   {
     "id": 227,
     "tr": "Okulda tanıştığın öğrenci, neden gıda firmasından gelen iş teklifini kabul etmedi?",
-    "en": "Why didn't  the student whom you met at the school accept the job offer from the food company?"
+    "en": "Why didn't the student whom you met at the school accept the job offer from the food company?"
   },
   {
     "id": 228,
     "tr": "Gittiğimiz kafede gördüğümüz çift",
-    "en": "The couple whom we saw at the cafe  where  we went"
+    "en": "The couple whom we saw at the cafe where we went"
   },
   {
     "id": 229,
@@ -1146,22 +1146,22 @@
   },
   {
     "id": 230,
-    "tr": "Çalıştığım restorandaki şef ankaralı.",
-    "en": "The chef who is at the restaurant where I work is from Ankara"
+    "tr": "Çalıştığım restorandaki şef Ankaralı.",
+    "en": "The chef who is at the restaurant where I work is from Ankara."
   },
   {
     "id": 231,
-    "tr": "Çalıştığım restorandaki şef bugün işe gelmedi",
-    "en": "The chef who is at the restaurant where I work didn't come to work today"
+    "tr": "Çalıştığım restorandaki şef bugün işe gelmedi.",
+    "en": "The chef who is at the restaurant where I work didn't come to work today."
   },
   {
     "id": 232,
-    "tr": "Çalıştığım restorandaki şef ankaralı.",
-    "en": "The chef who is at the restaurant where I work is from Ankara"
+    "tr": "Çalıştığım restorandaki şef Ankaralı.",
+    "en": "The chef who is at the restaurant where I work is from Ankara."
   },
   {
     "id": 233,
-    "tr": "Çalıştığım restorandaki şefin 10 yıllık tecrübesi var",
+    "tr": "Çalıştığım restorandaki şefin 10 yıllık tecrübesi var.",
     "en": "The chef who is at the restaurant where I work has ten years of experience."
   },
   {
@@ -1172,7 +1172,7 @@
   {
     "id": 235,
     "tr": "Çalıştığım restorandaki şef depoyu kontrol etti.",
-    "en": "The chef who was at the restaurant where I work checked the stockroom"
+    "en": "The chef who was at the restaurant where I work checked the stockroom."
   },
   {
     "id": 236,
@@ -1187,7 +1187,7 @@
   {
     "id": 238,
     "tr": "Çalıştığım fabrikadaki işçiler maaşlarına zam alacaklar.",
-    "en": "The employees who are at the factory where I work will get a raise  in their salaries"
+    "en": "The employees who are at the factory where I work will get a raise in their salaries."
   },
   {
     "id": 239,
@@ -1196,13 +1196,13 @@
   },
   {
     "id": 240,
-    "tr": "Çalıştığım fabrikadaki işçiler 1 haftadır  grev yapıyorlar.",
-    "en": "The employees who are at the factory where I work have been striking  for a week"
+    "tr": "Çalıştığım fabrikadaki işçiler 1 haftadır grev yapıyorlar.",
+    "en": "The employees who are at the factory where I work have been striking for a week."
   },
   {
     "id": 241,
     "tr": "Çalıştığım fabrikadaki işçiler eğer zam almazlarsa grev yapacaklar, greve gidecekler.",
-    "en": "The employees who are at the factory where I work will go on strike if they don't  get a raise"
+    "en": "The employees who are at the factory where I work will go on strike if they don't get a raise."
   },
   {
     "id": 242,
@@ -1212,42 +1212,42 @@
   {
     "id": 243,
     "tr": "Yolda gördüğüm yabancı sana benziyordu.",
-    "en": "The stranger whom I saw on the road looked like you"
+    "en": "The stranger whom I saw on the road looked like you."
   },
   {
     "id": 244,
     "tr": "Yolda gördüğüm yabancı 2 büyük kutu taşıyordu.",
-    "en": "The stranger whom I saw on the road was carrying two big boxes"
+    "en": "The stranger whom I saw on the road was carrying two big boxes."
   },
   {
     "id": 245,
     "tr": "Yolda gördüğüm yabancı bana adres sordu.",
-    "en": "The stranger whom I saw on the road asked me for  an address"
+    "en": "The stranger whom I saw on the road asked me for an address."
   },
   {
     "id": 246,
-    "tr": "Yolda gördüğüm yabancı aynı anda 2 kişiye  adres soruyordu.",
-    "en": "The stranger whom I saw on the road was asking for 2 people at the same time"
+    "tr": "Yolda gördüğüm yabancı aynı anda 2 kişiye adres soruyordu.",
+    "en": "The stranger whom I saw on the road was asking for 2 people at the same time."
   },
   {
     "id": 247,
     "tr": "Çalıştığım okulda gördüğüm öğrenci",
-    "en": "The student whom I saw  in the school where I work"
+    "en": "The student whom I saw in the school where I work"
   },
   {
     "id": 248,
-    "tr": "Çalıştığım okulda gördüğüm öğrenci  bence yeterince başarılı.",
-    "en": "I think  that the student whom I saw in the school where I work is successful enough"
+    "tr": "Çalıştığım okulda gördüğüm öğrenci bence yeterince başarılı.",
+    "en": "I think that the student whom I saw in the school where I work is successful enough."
   },
   {
     "id": 249,
-    "tr": "Çalıştığım okulda gördüğüm öğrenciler  bence yeterince başarılı değiller.",
-    "en": "I think  that The students whom I saw in the school where I work aren't  successful enough"
+    "tr": "Çalıştığım okulda gördüğüm öğrenciler bence yeterince başarılı değiller.",
+    "en": "I think that the students whom I saw in the school where I work aren't successful enough."
   },
   {
     "id": 250,
-    "tr": "Sence çalıştığın okulda gördüğün öğrenciler  yeterince başarılı mı?",
-    "en": "Do you think that the students Whom you saw in the school where you work  are successful enough?"
+    "tr": "Sence çalıştığın okulda gördüğün öğrenciler yeterince başarılı mı?",
+    "en": "Do you think that the students whom you saw in the school where you work are successful enough?"
   },
   {
     "id": 251,
@@ -1257,17 +1257,17 @@
   {
     "id": 252,
     "tr": "Yolda karşılaştığım yaşlı adam bana biraz para verdi.",
-    "en": "The old man whom I met on the road gave me some money"
+    "en": "The old man whom I met on the road gave me some money."
   },
   {
     "id": 253,
     "tr": "Yolda karşılaştığım yaşlı adam benden yardım istedi.",
-    "en": "The old man whom I met on the road asked me for help"
+    "en": "The old man whom I met on the road asked me for help."
   },
   {
     "id": 254,
     "tr": "Yolda karşılaştığım yaşlı adam benden çantasını taşımamı istedi.",
-    "en": "The old man whom I met on the road asked me to carry his bag"
+    "en": "The old man whom I met on the road asked me to carry his bag."
   },
   {
     "id": 255,
@@ -1282,32 +1282,32 @@
   {
     "id": 257,
     "tr": "Az önce yolda karşılaştığım yaşlı adam benden yardım istedi.",
-    "en": "The old man whom I have just met on the road asked me for help"
+    "en": "The old man whom I have just met on the road asked me for help."
   },
   {
     "id": 258,
     "tr": "Çalıştığım ofisteki sekreter",
-    "en": "The secretary who is  in the office where I work"
+    "en": "The secretary who is in the office where I work"
   },
   {
     "id": 259,
     "tr": "Çalıştığım ofisteki sekreter bana önemli bir mail gönderdi.",
-    "en": "The secretary who is  in the office where I work sent me an important  email"
+    "en": "The secretary who is in the office where I work sent me an important email."
   },
   {
     "id": 260,
-    "tr": "Çalıştığım ofisteki sekreter bana önemli bir mail göndermedi",
-    "en": "The secretary who is  in the office where I work didn't send me an important  email"
+    "tr": "Çalıştığım ofisteki sekreter bana önemli bir mail göndermedi.",
+    "en": "The secretary who is in the office where I work didn't send me an important email."
   },
   {
     "id": 261,
     "tr": "Çalıştığın ofisteki sekreter sana önemli bir mail gönderdi mi?",
-    "en": "Did the secretary who is  in the office where you work send you an important  email?"
+    "en": "Did the secretary who is in the office where you work send you an important email?"
   },
   {
     "id": 262,
     "tr": "Çalıştığın ofisteki sekreter sana ne zaman önemli bir mail gönderdi?",
-    "en": "When did the secretary who is  in the office where you work send you an important  email?"
+    "en": "When did the secretary who is in the office where you work send you an important email?"
   },
   {
     "id": 263,
@@ -1327,17 +1327,17 @@
   {
     "id": 266,
     "tr": "Çalıştığım okulda gördüğüm öğretmen 10 yıldır bu okulda çalışıyor.",
-    "en": "The teacher whom I saw at the school where I work has been working  for ten year in this school"
+    "en": "The teacher whom I saw at the school where I work has been working for ten years in this school."
   },
   {
     "id": 267,
     "tr": "Çalıştığım okulda gördüğüm öğretmen bu zamana kadar gördüğüm en nazik kişi.",
-    "en": "The teacher whom I saw at the school where I work is the kindest person that I have seen so far"
+    "en": "The teacher whom I saw at the school where I work is the kindest person that I have seen so far."
   },
   {
     "id": 268,
     "tr": "Çalıştığım okulda gördüğüm öğretmen bu dünyadaki en kibar insanlardan biridir.",
-    "en": "The teacher whom I saw at the school where I work is one of the kindest people  in this world"
+    "en": "The teacher whom I saw at the school where I work is one of the kindest people in this world."
   },
   {
     "id": 269,
@@ -1357,12 +1357,12 @@
   {
     "id": 272,
     "tr": "Çalıştığım mağazadaki müşteriler bize bahşiş verdi.",
-    "en": "The customers who are at the store where I work gave us a tip"
+    "en": "The customers who are at the store where I work gave us a tip."
   },
   {
     "id": 273,
     "tr": "Çalıştığım mağazadaki müşteriler bize 20 dolar bahşiş verdi.",
-    "en": "The customers who are at the store where I work gave us twenty dollars as a tip"
+    "en": "The customers who are at the store where I work gave us twenty dollars as a tip."
   },
   {
     "id": 274,
@@ -1372,7 +1372,7 @@
   {
     "id": 275,
     "tr": "Dün buluştuğum eski arkadaşım da senin gibi bir mühendis.",
-    "en": "My old friend whom I met yesterday is an engineer like you"
+    "en": "My old friend whom I met yesterday is an engineer like you."
   },
   {
     "id": 276,
@@ -1382,17 +1382,17 @@
   {
     "id": 277,
     "tr": "Dün buluştuğum eski arkadaşım sana selam söyledi.",
-    "en": "My old friend whom I met yesterday said hello to you"
+    "en": "My old friend whom I met yesterday said hello to you."
   },
   {
     "id": 278,
-    "tr": "Dün buluştuğum eski arkadaşım İstanbula gitmek istediğini söyledi.",
-    "en": "My old friend whom I met yesterday said that he wanted to go to İstanbul"
+    "tr": "Dün buluştuğum eski arkadaşım İstanbul'a gitmek istediğini söyledi.",
+    "en": "My old friend whom I met yesterday said that he wanted to go to İstanbul."
   },
   {
     "id": 279,
-    "tr": "Dün buluştuğum eski arkadaşım İstanbulda yaşamak istediğini söyledi.",
-    "en": "My old friend whom I met yesterday said that he wanted to live in İstanbul"
+    "tr": "Dün buluştuğum eski arkadaşım İstanbul'da yaşamak istediğini söyledi.",
+    "en": "My old friend whom I met yesterday said that he wanted to live in İstanbul."
   },
   {
     "id": 280,
@@ -1401,18 +1401,18 @@
   },
   {
     "id": 281,
-    "tr": "Yolda bizimle karşılaşan turist ile İstanbul'daki en iyi yemekler hakkında konuştuk",
-    "en": "We talked to the tourist who met us on the road about the best food  in İstanbul"
+    "tr": "Yolda bizimle karşılaşan turist ile İstanbul'daki en iyi yemekler hakkında konuştuk.",
+    "en": "We talked to the tourist who met us on the road about the best food in İstanbul."
   },
   {
     "id": 282,
     "tr": "Yolda karşılaştığımız turistle İstanbul'daki en iyi yemekler hakkında on dakika konuştuk.",
-    "en": "We talked to the tourist whom we met on the road about the best food in İstanbul for ten minutes"
+    "en": "We talked to the tourist whom we met on the road about the best food in İstanbul for ten minutes."
   },
   {
     "id": 283,
     "tr": "Ayşenin yanında oturan kadını tanıyor musun?",
-    "en": "Do you know the woman who is sitting  next to Ayşe?"
+    "en": "Do you know the woman who is sitting next to Ayşe?"
   },
   {
     "id": 284,
@@ -1422,87 +1422,87 @@
   {
     "id": 285,
     "tr": "Otobüste önümde oturan adam gazetesini okuyordu.",
-    "en": "The man who sat in front of me on the bus was reading his newspaper"
+    "en": "The man who sat in front of me on the bus was reading his newspaper."
   },
   {
     "id": 286,
     "tr": "Babası Almanya’da çalışan bir arkadaşım var.",
-    "en": "I have a friend whose father works in Germany"
+    "en": "I have a friend whose father works in Germany."
   },
   {
     "id": 287,
     "tr": "Önemli bir fotoğrafçı olan Ara Güler, İstanbul’da doğmuştur.",
-    "en": "Ara Güler , who is an important photographer  was born in İstanbul"
+    "en": "Ara Güler , who is an important photographer was born in İstanbul."
   },
   {
     "id": 288,
     "tr": "O, bu hayatta bana yardım eden tek insandır.",
-    "en": "He is the only  person who helps me in this life"
+    "en": "He is the only person who helps me in this life."
   },
   {
     "id": 289,
     "tr": "Atatürk, bu ülkenin kaderini değiştiren bir insandır.",
-    "en": "Atatürk is a person who changed the destiny of  this country"
+    "en": "Atatürk is a person who changed the destiny of this country."
   },
   {
     "id": 290,
     "tr": "Geçen hafta bisikleti çalınan çocuk çok üzgündü.",
-    "en": "The child whose bike was stolen last week was very sad"
+    "en": "The child whose bike was stolen last week was very sad."
   },
   {
     "id": 291,
     "tr": "Köpeği sürekli havlayan bir adam gördüm.",
-    "en": "I saw a man whose dog always barks"
+    "en": "I saw a man whose dog always barks."
   },
   {
     "id": 292,
     "tr": "Dün gördüğüm kadın çok çılgındı.",
-    "en": "The woman whom I saw yesterday was very crazy"
+    "en": "The woman whom I saw yesterday was very crazy."
   },
   {
     "id": 293,
     "tr": "Dün gece izlediğim müzisyen gerçekten inanılmazdı.",
-    "en": "The musician whom I watched last night was really unbelievable"
+    "en": "The musician whom I watched last night was really unbelievable."
   },
   {
     "id": 294,
     "tr": "Kızkardeşi avukat olan bir arkadaşım var.",
-    "en": "I have a friend  whose sister is a lawyer"
+    "en": "I have a friend whose sister is a lawyer."
   },
   {
     "id": 295,
     "tr": "Amcası doktor olan bir arkadaşım var.",
-    "en": "I have a friend whose uncle is a doctor"
+    "en": "I have a friend whose uncle is a doctor."
   },
   {
     "id": 296,
     "tr": "O, her zaman en iyi soruları soran öğrencidir.",
-    "en": "He is the student who always asks the best questions"
+    "en": "He is the student who always asks the best questions."
   },
   {
     "id": 297,
     "tr": "Caddenin karşısında yaşayan insanlar çok arkadaş canlısı.",
-    "en": "The people who live across the street are very friendly"
+    "en": "The people who live across the street are very friendly."
   },
   {
     "id": 298,
     "tr": "Dün akşam bize servis yapan garson gerçekten nazikti.",
-    "en": "The waiter who served us last night was really kind"
+    "en": "The waiter who served us last night was really kind."
   },
   {
     "id": 299,
     "tr": "Konser sırasında tanıştığımız kız, en iyi arkadaşımın kız kardeşidir.",
-    "en": "The girl whom we met during the concert is my best friend’s sister"
+    "en": "The girl whom we met during the concert is my best friend’s sister."
   },
   {
     "id": 300,
     "tr": "Dersten sonra gördüğümüz adam çok sinirliydi.",
-    "en": "The man whom we saw after the lesson was very angry"
+    "en": "The man whom we saw after the lesson was very angry."
   },
   {
     "id": 301,
     "tr": "Bize yardım eden adam çok yaşlıydı.",
-    "en": "The man who helped us was very old"
+    "en": "The man who helped us was very old."
   },
   {
     "id": 302,
@@ -1512,22 +1512,22 @@
   {
     "id": 303,
     "tr": "Dışarıda köpeği havlayan kişi benim komşum.",
-    "en": "The person whose dog barks outside is my neighbor"
+    "en": "The person whose dog barks outside is my neighbor."
   },
   {
     "id": 304,
     "tr": "Çocukları bağıran kadını tanımıyorum.",
-    "en": "I don't know the woman whose children are shouting"
+    "en": "I don't know the woman whose children are shouting."
   },
   {
     "id": 305,
     "tr": "Babası ünlü bir mimar olan Ahmet, doktor olmak istiyor.",
-    "en": "Ahmet, whose father is a famous architect wants to be a doctor"
+    "en": "Ahmet, whose father is a famous architect wants to be a doctor."
   },
   {
     "id": 306,
     "tr": "Tatilde tanıştığımız insanlar çok komikti.",
-    "en": "The people whom we met on holiday were very funny"
+    "en": "The people whom we met on holiday were very funny."
   },
   {
     "id": 307,
@@ -1537,22 +1537,22 @@
   {
     "id": 308,
     "tr": "Sinemaya gittiğimizde tanıştığım insanlar, çok eğlenceliydi.",
-    "en": "The people whom I met When we went to the cinema were very fun"
+    "en": "The people whom I met when we went to the cinema were very fun."
   },
   {
     "id": 309,
     "tr": "Konuştuğum doktor, tedavi yöntemleri konusunda çok tecrübeliydi.",
-    "en": "The doctor whom I talked to was very experienced about treatment methods"
+    "en": "The doctor whom I talked to was very experienced about treatment methods."
   },
   {
     "id": 310,
     "tr": "Yeni ofisimde tanıştığım kişiler, gerçekten çok yardımseverdi.",
-    "en": "The people whom I met in my new office were really helpful"
+    "en": "The people whom I met in my new office were really helpful."
   },
   {
     "id": 311,
     "tr": "Arabaları çok pahalı olan insanlar zengindir.",
-    "en": "The people whose cars are very expensive are rich"
+    "en": "The people whose cars are very expensive are rich."
   },
   {
     "id": 312,
@@ -1562,122 +1562,122 @@
   {
     "id": 313,
     "tr": "Burada yaşayan adam çok zengin.",
-    "en": "The man who lives here is very rich"
+    "en": "The man who lives here is very rich."
   },
   {
     "id": 314,
     "tr": "Para verdiğim arkadaşım beni aramıyor.",
-    "en": "My friend whom I gave money doesn't call me"
+    "en": "My friend whom I gave money doesn't call me."
   },
   {
     "id": 315,
     "tr": "Parasını harcadığım arkadaşım beni bulmaya çalışıyor.",
-    "en": "My friend whose money I spent is trying to find me"
+    "en": "My friend whose money I spent is trying to find me."
   },
   {
     "id": 316,
     "tr": "Pahalı bir arabası olan adamla kavga ettim.",
-    "en": "I had a fight with a man whose car is expensive"
+    "en": "I had a fight with a man whose car is expensive."
   },
   {
     "id": 317,
     "tr": "Arabası pahalı olan adam bana bağırdı.",
-    "en": "The man whose car is expensive shouted at me"
+    "en": "The man whose car is expensive shouted at me."
   },
   {
     "id": 318,
     "tr": "Dün arabada gördüğüm adam çok yakışıklıydı.",
-    "en": "The man whom I saw in the car was very handsome"
+    "en": "The man whom I saw in the car was very handsome."
   },
   {
     "id": 319,
     "tr": "Dün bizi gören adam amcamdı.",
-    "en": "The man who saw us yesterday was my uncle"
+    "en": "The man who saw us yesterday was my uncle."
   },
   {
     "id": 320,
     "tr": "Bahçede oturan adam çok yaşlıydı.",
-    "en": "The man who sat in the garden was very old"
+    "en": "The man who sat in the garden was very old."
   },
   {
     "id": 321,
     "tr": "Önemli bir şarkıcı olan Ahmet, bir film yapmak istiyor.",
-    "en": "Ahmet, who is an important singer wants to make a movie"
+    "en": "Ahmet, who is an important singer wants to make a movie."
   },
   {
     "id": 322,
     "tr": "Yolda gördüğüm kadın benimle konuşmak istedi.",
-    "en": "The woman whom I saw on the road wanted to talk to me"
+    "en": "The woman whom I saw on the road wanted to talk to me."
   },
   {
     "id": 323,
     "tr": "Yolda beni gören kadın benimle konuşmak istedi.",
-    "en": "The woman who saw me on the road wanted to talk to me"
+    "en": "The woman who saw me on the road wanted to talk to me."
   },
   {
     "id": 324,
     "tr": "Köpeği yolda beni gören kadın benimle konuşmak istedi.",
-    "en": "The woman whose dog saw me on the road wanted to talk to me"
+    "en": "The woman whose dog saw me on the road wanted to talk to me."
   },
   {
     "id": 325,
     "tr": "Yolda karşılaştığımız eski arkadaşla bara gittik.",
-    "en": "We went to the bar with my old friend whom we met on the road"
+    "en": "We went to the bar with my old friend whom we met on the road."
   },
   {
     "id": 326,
     "tr": "Bizi gören eski arkadaşım, mutlu olduğunu söyledi.",
-    "en": "My old friend who saw us said that he was happy"
+    "en": "My old friend who saw us said that he was happy."
   },
   {
     "id": 327,
     "tr": "Hastanede tanıştığımız adamla yaşam hakkında konuştuk.",
-    "en": "We talked to the man whom we met at the hospital about life"
+    "en": "We talked to the man whom we met at the hospital about life."
   },
   {
     "id": 328,
     "tr": "Sahilde gördüğümüz çocuk bir kediyle oynuyordu.",
-    "en": "The child whom we saw in the seaside was playing with a cat"
+    "en": "The child whom we saw in the seaside was playing with a cat."
   },
   {
     "id": 329,
     "tr": "Çalıştığım projedeki kadın bizi uyardı.",
-    "en": "The woman whom I work with on the project warned us"
+    "en": "The woman whom I work with on the project warned us."
   },
   {
     "id": 330,
     "tr": "Dün tanıştığımız adam çok garipti.",
-    "en": "The man whom we met yesterday was very strange"
+    "en": "The man whom we met yesterday was very strange."
   },
   {
     "id": 331,
     "tr": "Kızı benim sınıfımda olan öğretmen iyi bir öğretmen değildi.",
-    "en": "The teacher whose daughter was in my class wasn't  a good teacher"
+    "en": "The teacher whose daughter was in my class wasn't a good teacher."
   },
   {
     "id": 332,
     "tr": "Eşi yurt dışında çalışan adam uçak bileti satın aldı.",
-    "en": "The man whose wife works abroad bought a flight ticket"
+    "en": "The man whose wife works abroad bought a flight ticket."
   },
   {
     "id": 333,
     "tr": "Köpeğini sürekli parka götüren kadın güvercinleri besledi.",
-    "en": "The woman who always takes her dog to the park fed the pigeons"
+    "en": "The woman who always takes her dog to the park fed the pigeons."
   },
   {
     "id": 334,
     "tr": "Annemle aynı mahallede oturan kızkardeşim 40 yaşında.",
-    "en": "My sister who lives in the same neighborhood with my mother is forty years old"
+    "en": "My sister who lives in the same neighborhood with my mother is forty years old."
   },
   {
     "id": 335,
     "tr": "Arkadaşımla aynı evde kalan kadın bir doktor.",
-    "en": "The woman who stays in the same house with my friend is a doctor"
+    "en": "The woman who stays in the same house with my friend is a doctor."
   },
   {
     "id": 336,
     "tr": "Oğlu doktor olan kadın hastaneye gitmek istemiyor.",
-    "en": "The woman whose son is a doctor doesn't want to go to the hospital"
+    "en": "The woman whose son is a doctor doesn't want to go to the hospital."
   },
   {
     "id": 337,
@@ -1687,66 +1687,66 @@
   {
     "id": 338,
     "tr": "Ailesi yurtdışında yaşayan adam ailesini özledi.",
-    "en": "The man whose family lives abroad missed his family"
+    "en": "The man whose family lives abroad missed his family."
   },
   {
     "id": 339,
     "tr": "Oğlu yaz tatilinde bizimle kalan öğretmen için bir sürprizimiz var.",
-    "en": "We  have a surprise for the teacher whose son stayed with us during summer holiday"
+    "en": "We have a surprise for the teacher whose son stayed with us during summer holiday."
   },
   {
     "id": 340,
     "tr": "Kızı üniversiteye giden Ayşe, onun için herşeyi yapar.",
-    "en": "Ayşe, whose daughter goes to the university does everything for her"
+    "en": "Ayşe, whose daughter goes to the university does everything for her."
   },
   {
     "id": 341,
-    "tr": "Oğlu Fenerbahçede basketbol oynayan kadın gururlu.",
+    "tr": "Oğlu Fenerbahçe'de basketbol oynayan kadın gururlu.",
     "en": "The woman whose son plays basketball for Fenerbahçe is proud."
   },
   {
     "id": 342,
     "tr": "Odayı temizleyen kadın bahşiş istedi.",
-    "en": "The woman who cleaned the room wanted a tip"
+    "en": "The woman who cleaned the room wanted a tip."
   },
   {
     "id": 343,
     "tr": "Bizim hastanede çalışan doktorlar yeterince tecrübeli değil.",
-    "en": "The doctors who work in our hospital aren't experienced enough"
+    "en": "The doctors who work in our hospital aren't experienced enough."
   },
   {
     "id": 344,
     "tr": "Gittiğimiz kafedeki müşteriler yeterince zengin değil.",
-    "en": "The customers who are  in the cafe where  we went aren't rich enough"
+    "en": "The customers who are in the cafe where we went aren't rich enough."
   },
   {
     "id": 345,
     "tr": "Okulda tanıştığım öğrenci yeterince akıllı değil.",
-    "en": "The student whom I met at the school isn't clever enough"
+    "en": "The student whom I met at the school isn't clever enough."
   },
   {
     "id": 346,
     "tr": "Gittiğimiz kafede gördüğümüz çift çok sevimliydi.",
-    "en": "The couple whom we saw at the cafe we went were very cute"
+    "en": "The couple whom we saw at the cafe we went were very cute."
   },
   {
     "id": 347,
     "tr": "Çalıştığım restorandaki şefle yemek yapmak hakkında konuştum.",
-    "en": "I talked to the chef whom I work in the restaurant about cooking"
+    "en": "I talked to the chef whom I work in the restaurant about cooking."
   },
   {
     "id": 348,
     "tr": "Çalıştığım fabrikadaki işçiler çok kızgın.",
-    "en": "The employees whom I work at the factory are very angry"
+    "en": "The employees whom I work at the factory are very angry."
   },
   {
     "id": 349,
     "tr": "Yolda gördüğüm yabancı bana göz kırptı.",
-    "en": "The stranger whom I saw on the road winked at me"
+    "en": "The stranger whom I saw on the road winked at me."
   },
   {
     "id": 350,
     "tr": "Yolda gördüğüm yabancı birden koşmaya başladı.",
-    "en": "The stranger whom I saw on the road  started to run suddenly."
+    "en": "The stranger whom I saw on the road started to run suddenly."
   }
 ]
