@@ -104,7 +104,7 @@
   { "id": 103, "tr": "Paranın mutluluk getirmeyeceğini söylüyorum.", "en": "I say that money won't bring happiness." },
   { "id": 104, "tr": "Ayşe arkadaşlarını partiye getirmeyeceğini söylüyor.", "en": "Ayşe says that she won't bring her friends to the party." },
   { "id": 105, "tr": "Kocam çocukları okula götürmeyeceğini söylüyor.", "en": "My husband says that he won't take the children to the school." },
-  { "id": 106, "tr": "Kocam çocukları okula götüremeyeceğini söylüyor.", "en": "My husband says that he can't take the children to the school." },
+  { "id": 106, "tr": "Kocam çocukları okula götüremeyeceğini söylüyor.", "en": "My husband says that he can't take the children to the school. / My husband says that he won't be able to take the children to the school." },
   { "id": 107, "tr": "Kocam çocukları okula göndermeyeceğini söylüyor.", "en": "My husband says that he won't send the children to the school." },
   { "id": 108, "tr": "Bahçıvan çiçekleri sulayacağını söylüyor.", "en": "The gardener says that he will water the flowers." },
   { "id": 109, "tr": "Bahçıvan çiçekleri dün suladığını söylüyor.", "en": "The gardener says that he watered the flowers yesterday." },
