@@ -33,7 +33,7 @@
   { "id": 28.1, "name": "Lesson #28.1",     "subTitle": "which - where- when- #RELATIVE CLAUSE part 1",                         "file": "lessons/m4/lesson28.1.json",     "logo": "lessonlogo28.svg"  },
   { "id": 29, "name": "Lesson #29",     "subTitle": " #RELATIVE CLAUSE MİX",                                 "file": "lessons/m4/lesson29.json",     "logo": "lessonlogo29.svg"  },
   { "id": 30, "name": "Lesson #30",     "subTitle": " #REPORTED SPEECH GİRİŞ",                                 "file": "lessons/m4/lesson30.json",     "logo": "lessonlogo30.svg"  },
-  
+  { "id": 31, "name": "Lesson #31",     "subTitle": " #REPORTED SPEECH SORU KALIPLARI",                                 "file": "lessons/m4/lesson31.json",     "logo": "lessonlogo31.svg"  },
 
   { "id": 37, "name": "B1 Vocabulary",     "subTitle": "B1 Vocabulary",                                             "file": "lessons/m4/b1.json",     "logo": "b1logo.png"  }
 ]
