@@ -34,8 +34,8 @@
   { "id": 29, "name": "Lesson #29",     "subTitle": " #RELATIVE CLAUSE MİX",                                 "file": "lessons/m4/lesson29.json",     "logo": "lessonlogo29.svg"  },
   { "id": 30, "name": "Lesson #30",     "subTitle": " #REPORTED SPEECH GİRİŞ",                                 "file": "lessons/m4/lesson30.json",     "logo": "lessonlogo30.svg"  },
   { "id": 31, "name": "Lesson #31",     "subTitle": " #REPORTED SPEECH SORU KALIPLARI",                                 "file": "lessons/m4/lesson31.json",     "logo": "lessonlogo31.svg"  },
-  { "id": 32, "name": "Lesson #32",     "subTitle": " #REPORTED SPEECH GEÇMİŞ",                                 "file": "lessons/m4/lesson32.json",     "logo": "lessonlogo32.svg"  },
-  { "id": 33, "name": "Lesson #33",     "subTitle": " #REPORTED SPEECH MİX",                                 "file": "lessons/m4/lesson33.json",     "logo": "lessonlogo33.svg"  },
+  { "id": 32, "name": "Lesson #32",     "subTitle": " #REPORTED SPEECH GEÇMİŞ-1",                                 "file": "lessons/m4/lesson32.json",     "logo": "lessonlogo32.svg"  },
+  { "id": 33, "name": "Lesson #33",     "subTitle": " #REPORTED SPEECH GEÇMİŞ-2",                                 "file": "lessons/m4/lesson33.json",     "logo": "lessonlogo33.svg"  },
 
   
   { "id": 37, "name": "B1 Vocabulary",     "subTitle": "B1 Vocabulary",                                             "file": "lessons/m4/b1.json",     "logo": "b1logo.png"  }
