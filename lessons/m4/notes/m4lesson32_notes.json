@@ -1,0 +1,56 @@
+{
+  "title": "Reported Speech (Dolaylı Anlatım)",
+  "tabs": [
+    {
+      "label": "Zaman & Yer Değişimleri",
+      "type": "table",
+      "headers": ["Direct Speech", "Reported Speech"],
+      "rows": [
+        ["Today", "That day"],
+        ["Now", "Then / at the moment"],
+        ["... days ago", "... days before"],
+        ["Last week", "The week before"],
+        ["Next year", "The following year"],
+        ["Tomorrow", "The next day / the following day"],
+        ["Here", "There"],
+        ["This", "That"],
+        ["These", "Those"],
+        ["Ago", "Before"],
+        ["Tonight", "That night"],
+        ["Yesterday", "The previous day"]
+      ]
+    },
+    {
+      "label": "Tense Dönüşümleri",
+      "type": "table",
+      "headers": ["#", "Direct Speech", "Indirect Speech", "Örnek (Direct)", "He said that..."],
+      "rows": [
+        ["–", "Am / Is / Are", "Was / Were", "'I am ill'", "He was ill."],
+        ["1", "Present simple", "Past simple", "'I get up at 6 o'clock'", "He got up at 6 o'clock."],
+        ["2", "Present continuous", "Past continuous", "'I am working'", "He was working."],
+        ["3", "Past continuous", "Past perfect continuous", "'I was swimming'", "He had been swimming."],
+        ["4", "Past simple", "Past perfect", "'I did shopping'", "He had done shopping."],
+        ["5", "Present perfect", "Past perfect", "'I have seen her'", "He had seen her."],
+        ["6", "Past perfect", "Past perfect", "'I had seen her'", "He had seen her."],
+        ["7", "Future / Will", "Would", "'I will do it'", "I would do it."]
+      ]
+    },
+    {
+      "label": "Modal Dönüşümleri",
+      "type": "table",
+      "headers": ["#", "Direct Speech", "Indirect Speech", "Örnek (Direct)", "He said that..."],
+      "rows": [
+        ["1", "Will", "Would", "'I will go to the gym'", "He would go to the gym."],
+        ["2", "Can", "Could", "'I can play football'", "He could play football."],
+        ["3", "Could", "Could", "'I could play football'", "He could play football."],
+        ["4", "Must", "Had to", "'I must work'", "He had to work."],
+        ["5", "May", "Might", "'I may be late'", "He might be late."],
+        ["6", "Might", "Might", "'I might be late'", "He might be late."],
+        ["7", "Should", "Should", "'I should go'", "He should go."],
+        ["8", "Have to", "Had to", "'I have to go'", "He had to go."],
+        ["9", "Would", "Would", "'I would go'", "He would go."],
+        ["10", "Need to", "Needed to", "'I need to go'", "He needed to go."]
+      ]
+    }
+  ]
+}
