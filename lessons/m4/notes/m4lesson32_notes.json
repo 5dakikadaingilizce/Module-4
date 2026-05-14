@@ -20,36 +20,30 @@
         ["Yesterday", "The previous day"]
       ]
     },
-{
-  "label": "Tense Dönüşümleri",
-  "type": "table",
-  "headers": ["#", "Direct Speech", "Formül Dönüşümü", "Indirect Speech", "Örnek (Direct)", "He said that..."],
-  "rows": [
-    ["–", "Am / Is / Are", "am/is/are → was/were", "Was / Were", "'I am ill'", "He was ill."],
-    ["1", "Present simple V1", "V1 → V2", "Past simple V2", "'I get up at 6 o'clock'", "He got up at 6 o'clock."],
-    ["2", "Present continuous am/is/are + Ving", "am/is/are+Ving → was/were+Ving", "Past continuous was/were + Ving", "'I am working'", "He was working."],
-    ["3", "Past continuous was/were + Ving", "was/were+Ving → had been+Ving", "Past perfect continuous had been + Ving", "'I was swimming'", "He had been swimming."],
-    ["4", "Past simple V2", "V2 → had+V3", "Past perfect had + V3", "'I did shopping'", "He had done shopping."],
-    ["5", "Present perfect have/has + V3", "have/has+V3 → had+V3", "Past perfect had + V3", "'I have seen her'", "He had seen her."],
-    ["6", "Past perfect had + V3", "had+V3 → had+V3 (değişmez)", "Past perfect had + V3", "'I had seen her'", "He had seen her."],
-    ["7", "Future / Will", "will → would", "Would", "'I will do it'", "I would do it."]
-  ]
-},
     {
-      "label": "Modal Dönüşümleri",
+      "label": "Tense & Modal Dönüşümleri",
       "type": "table",
-      "headers": ["#", "Direct Speech", "Indirect Speech", "Örnek (Direct)", "He said that..."],
+      "headers": ["#", "Direct Speech", "Indirect Speech", "Formül Dönüşümü", "Örnek (Direct)", "He said that..."],
       "rows": [
-        ["1", "Will", "Would", "'I will go to the gym'", "He would go to the gym."],
-        ["2", "Can", "Could", "'I can play football'", "He could play football."],
-        ["3", "Could", "Could", "'I could play football'", "He could play football."],
-        ["4", "Must", "Had to", "'I must work'", "He had to work."],
-        ["5", "May", "Might", "'I may be late'", "He might be late."],
-        ["6", "Might", "Might", "'I might be late'", "He might be late."],
-        ["7", "Should", "Should", "'I should go'", "He should go."],
-        ["8", "Have to", "Had to", "'I have to go'", "He had to go."],
-        ["9", "Would", "Would", "'I would go'", "He would go."],
-        ["10", "Need to", "Needed to", "'I need to go'", "He needed to go."]
+        ["–", "Am / Is / Are", "Was / Were", "am/is/are → was/were", "'I am ill'", "He was ill."],
+        ["1", "Present simple", "Past simple", "V1 → V2", "'I get up at 6 o'clock'", "He got up at 6 o'clock."],
+        ["2", "Present continuous", "Past continuous", "am/is/are+Ving → was/were+Ving", "'I am working'", "He was working."],
+        ["3", "Past continuous", "Past perfect continuous", "was/were+Ving → had been+Ving", "'I was swimming'", "He had been swimming."],
+        ["4", "Past simple", "Past perfect", "V2 → had+V3", "'I did shopping'", "He had done shopping."],
+        ["5", "Present perfect", "Past perfect", "have/has+V3 → had+V3", "'I have seen her'", "He had seen her."],
+        ["6", "Past perfect", "Past perfect", "had+V3 → had+V3 (değişmez)", "'I had seen her'", "He had seen her."],
+        ["7", "Future / Will", "Would", "will → would", "'I will do it'", "I would do it."],
+        ["—", "— MODALS —", "— MODALS —", "— MODALS —", "— MODALS —", "— MODALS —"],
+        ["1", "Will", "Would", "will → would", "'I will go to the gym'", "He would go to the gym."],
+        ["2", "Can", "Could", "can → could", "'I can play football'", "He could play football."],
+        ["3", "Could", "Could", "could → could (değişmez)", "'I could play football'", "He could play football."],
+        ["4", "Must", "Had to", "must → had to", "'I must work'", "He had to work."],
+        ["5", "May", "Might", "may → might", "'I may be late'", "He might be late."],
+        ["6", "Might", "Might", "might → might (değişmez)", "'I might be late'", "He might be late."],
+        ["7", "Should", "Should", "should → should (değişmez)", "'I should go'", "He should go."],
+        ["8", "Have to", "Had to", "have to → had to", "'I have to go'", "He had to go."],
+        ["9", "Would", "Would", "would → would (değişmez)", "'I would go'", "He would go."],
+        ["10", "Need to", "Needed to", "need to → needed to", "'I need to go'", "He needed to go."]
       ]
     }
   ]
