@@ -33,7 +33,8 @@
         ["5", "Present perfect", "Past perfect", "have/has+V3 → had+V3", "'I have seen her'", "He had seen her."],
         ["6", "Past perfect", "Past perfect", "had+V3 → had+V3 (değişmez)", "'I had seen her'", "He had seen her."],
         ["7", "Future / Will", "Would", "will → would", "'I will do it'", "I would do it."],
-        ["—", "— MODALS —", "— MODALS —", "— MODALS —", "— MODALS —", "— MODALS —"],
+        
+        ["—", "Direct Speech", "Indirect Speech", "Formül Dönüşümü", "Örnek (Direct)", "He said that"],
         ["1", "Will", "Would", "will → would", "'I will go to the gym'", "He would go to the gym."],
         ["2", "Can", "Could", "can → could", "'I can play football'", "He could play football."],
         ["3", "Could", "Could", "could → could (değişmez)", "'I could play football'", "He could play football."],
