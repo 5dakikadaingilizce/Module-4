@@ -20,21 +20,21 @@
         ["Yesterday", "The previous day"]
       ]
     },
-    {
-      "label": "Tense Dönüşümleri",
-      "type": "table",
-      "headers": ["#", "Direct Speech", "Indirect Speech", "Örnek (Direct)", "He said that..."],
-      "rows": [
-        ["–", "Am / Is / Are", "Was / Were", "'I am ill'", "He was ill."],
-        ["1", "Present simple", "Past simple", "'I get up at 6 o'clock'", "He got up at 6 o'clock."],
-        ["2", "Present continuous", "Past continuous", "'I am working'", "He was working."],
-        ["3", "Past continuous", "Past perfect continuous", "'I was swimming'", "He had been swimming."],
-        ["4", "Past simple", "Past perfect", "'I did shopping'", "He had done shopping."],
-        ["5", "Present perfect", "Past perfect", "'I have seen her'", "He had seen her."],
-        ["6", "Past perfect", "Past perfect", "'I had seen her'", "He had seen her."],
-        ["7", "Future / Will", "Would", "'I will do it'", "I would do it."]
-      ]
-    },
+{
+  "label": "Tense Dönüşümleri",
+  "type": "table",
+  "headers": ["#", "Direct Speech", "Formül Dönüşümü", "Indirect Speech", "Örnek (Direct)", "He said that..."],
+  "rows": [
+    ["–", "Am / Is / Are", "am/is/are → was/were", "Was / Were", "'I am ill'", "He was ill."],
+    ["1", "Present simple V1", "V1 → V2", "Past simple V2", "'I get up at 6 o'clock'", "He got up at 6 o'clock."],
+    ["2", "Present continuous am/is/are + Ving", "am/is/are+Ving → was/were+Ving", "Past continuous was/were + Ving", "'I am working'", "He was working."],
+    ["3", "Past continuous was/were + Ving", "was/were+Ving → had been+Ving", "Past perfect continuous had been + Ving", "'I was swimming'", "He had been swimming."],
+    ["4", "Past simple V2", "V2 → had+V3", "Past perfect had + V3", "'I did shopping'", "He had done shopping."],
+    ["5", "Present perfect have/has + V3", "have/has+V3 → had+V3", "Past perfect had + V3", "'I have seen her'", "He had seen her."],
+    ["6", "Past perfect had + V3", "had+V3 → had+V3 (değişmez)", "Past perfect had + V3", "'I had seen her'", "He had seen her."],
+    ["7", "Future / Will", "will → would", "Would", "'I will do it'", "I would do it."]
+  ]
+}
     {
       "label": "Modal Dönüşümleri",
       "type": "table",
