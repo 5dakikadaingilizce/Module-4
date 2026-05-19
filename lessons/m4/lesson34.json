@@ -1,67 +1,67 @@
 [
   {
     "id": 1,
-    "tr": "I went to the school yesterday.",
+    "tr": "Dün okula gittim. / I went to the school yesterday.",
     "en": "Ali says that he went to the school yesterday. / Ali said that he had gone to the school the previous day."
   },
   {
     "id": 2,
-    "tr": "I am going to the school now.",
+    "tr": "Şuan okula gidiyorum. / I am going to the school now.",
     "en": "Ali says that he is going to the school now. / Ali said that he was going to the school then."
   },
   {
     "id": 3,
-    "tr": "I always go to the school.",
+    "tr": "Her zaman okula giderim. / I always go to the school.",
     "en": "Ali says that he always goes to the school. / Ali said that he always went to the school."
   },
   {
     "id": 4,
-    "tr": "I was going to the school when the rain started.",
+    "tr": "Yağmur başladığında okula gidiyordum. / I was going to the school when the rain started.",
     "en": "Ali says that he was going to the school when the rain started. / Ali said that he had been going to the school when the rain started."
   },
   {
     "id": 5,
-    "tr": "I haven’t gone to the school for two days.",
+    "tr": "2 gündür okula gitmedim. / I haven’t gone to the school for two days.",
     "en": "Ali says that he hasn't gone to the school for two days. / Ali said that he hadn't gone to the school for two days."
   },
   {
     "id": 6,
-    "tr": "I won’t go to the school next week.",
+    "tr": "Gelecek hafta okula gitmeyeceğim. / I won’t go to the school next week.",
     "en": "Ali says that he won't go to the school next week. / Ali said that he wouldn't go to the school the following week."
   },
   {
     "id": 7,
-    "tr": "I hadn’t gone to the school before them.",
+    "tr": "Onlardan önce okula gitmemiştim. / I hadn’t gone to the school before them.",
     "en": "Ali says that he hadn't gone to the school before them. / Ali said that he hadn't gone to the school before them."
   },
   {
     "id": 8,
-    "tr": "I can’t swim.",
+    "tr": "Yüzemem. / I can’t swim.",
     "en": "Ali says that he can't swim. / Ali said that he couldn't swim."
   },
   {
     "id": 9,
-    "tr": "I couldn’t read.",
+    "tr": "Okuyamam. / I couldn’t read.",
     "en": "Ali says that he couldn't read. / Ali said that he couldn't read."
   },
   {
     "id": 10,
-    "tr": "Can you help me?",
+    "tr": "Bana yardım edebilir misin? / Can you help me?",
     "en": "Ali asks if I can help him. / Ali asked if I could help him."
   },
   {
     "id": 11,
-    "tr": "I must start a new job.",
+    "tr": "Yeni bir işe başlamalıyım. / I must start a new job.",
     "en": "Ali says that he must start a new job. / Ali said that he had to start a new job."
   },
   {
     "id": 12,
-    "tr": "You have to help me.",
+    "tr": "Bana yardım etmek zorundasın. / You have to help me.",
     "en": "Ali says that I have to help him. / Ali said that I had to help him."
   },
   {
     "id": 13,
-    "tr": "You need to help me.",
+    "tr": "Bana yardım etmen gerek. / You need to help me.",
     "en": "Ali says that I need to help him. / Ali said that I needed to help him."
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "id": 15,
-    "tr": "You should help me.",
+    "tr": "Bana yardım etsen iyi olur. / You should help me.",
     "en": "Ali says that I should help him. / Ali said that I should help him."
   },
   {
     "id": 16,
-    "tr": "If I were you, I would help you.",
+    "tr": "Eğer senin yerinde olsaydım, sana yardım ederdim. / If I were you, I would help you.",
     "en": "Ali says that if he were me, he would help me. / Ali said that if he had been me, he would help me."
   },
   {
