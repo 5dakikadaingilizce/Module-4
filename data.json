@@ -37,6 +37,8 @@
   { "id": 32, "name": "Lesson #32",     "subTitle": " #REPORTED SPEECH GEÇMİŞ-1",                                 "file": "lessons/m4/lesson32.json",     "logo": "lessonlogo32.svg" ,"notes": "lessons/m4/notes/m4lesson32_notes.json" },
   { "id": 33, "name": "Lesson #33",     "subTitle": " #REPORTED SPEECH GEÇMİŞ-2",                                 "file": "lessons/m4/lesson33.json",     "logo": "lessonlogo33.svg"  },
   { "id": 34, "name": "Lesson #34",     "subTitle": " #REPORTED SPEECH : Ali says... / Ali said...",                             "file": "lessons/m4/lesson34.json",     "logo": "lessonlogo34.svg"  },
+  { "id": 35, "name": "Lesson #35",     "subTitle": " #RECAP...",                             "file": "lessons/m4/lesson35.json",     "logo": "lessonlogo35.svg"  },
+
   
   { "id": 37, "name": "B1 Vocabulary",     "subTitle": "B1 Vocabulary",                                             "file": "lessons/m4/b1.json",     "logo": "b1logo.png"  }
 ]
